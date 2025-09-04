@@ -4,7 +4,6 @@ import sys
 import pdf2image
 import pytesseract
 
-
 ROOT = Path(__file__).parent
 SPECIES_CSV = ROOT / "sourcedata" / "species.csv"
 PDF_DIR = ROOT / "pdfs"
