@@ -1,7 +1,8 @@
 {
   "norwegian": "Grågås",
   "latin": "Anser anser",
-  "migratoriness": "partial_migrant",
+  "category": "Andefugler",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-25", "latest": "04-10" },
   "departure": { "earliest": "08-15", "latest": "09-15" },
   "eggs_laid": { "earliest": "04-15", "latest": "05-20" },

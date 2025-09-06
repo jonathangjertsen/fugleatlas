@@ -1,7 +1,8 @@
 {
   "norwegian": "Knekkand",
   "latin": "Anas querquedula",
-  "migratoriness": "migrant",
+  "category": "Andefugler",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-01", "latest": "05-31" },
   "departure": { "earliest": "07-01", "latest": "08-31" },
   "eggs_laid": { "earliest": "05-01", "latest": "06-30" },

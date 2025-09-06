@@ -1,7 +1,7 @@
 {
   "norwegian": "Taksvale",
   "latin": "Delichon urbica",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "05-01", "latest": "05-10" },
   "departure": { "earliest": "08-25", "latest": "09-30" },
   "eggs_laid": { "earliest": "05-25", "latest": "07-15" },

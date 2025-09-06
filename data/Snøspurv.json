@@ -1,7 +1,7 @@
 {
   "norwegian": "Snøspurv",
   "latin": "Plectrophenax nivalis",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-01", "latest": "04-15" },
   "departure": { "earliest": "09-01", "latest": "11-30" },
   "eggs_laid": { "earliest": "06-01", "latest": "06-30" },

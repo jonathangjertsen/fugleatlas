@@ -1,7 +1,7 @@
 {
   "norwegian": "Lappsanger",
   "latin": "Phylloscopus borealis",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "06-18", "latest": "06-24" },
   "departure": { "earliest": "08-15", "latest": "08-31" },
   "eggs_laid": { "earliest": "06-15", "latest": "07-10" },

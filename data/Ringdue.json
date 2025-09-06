@@ -1,7 +1,8 @@
 {
   "norwegian": "Ringdue",
   "latin": "Columba palumbus",
-  "migratoriness": "partial_migrant",
+  "category": "Duer",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "02-01", "latest": "03-31" },
   "departure": { "earliest": "09-20", "latest": "11-30" },
   "eggs_laid": { "earliest": "03-01", "latest": "07-31" },

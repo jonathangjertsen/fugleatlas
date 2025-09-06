@@ -1,7 +1,7 @@
 {
   "norwegian": "Storskarv",
   "latin": "Phalacrocorax carbo",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "04-01", "latest": "04-30" },
   "departure": { "earliest": "08-01", "latest": "09-30" },
   "eggs_laid": { "earliest": "04-15", "latest": "05-15" },

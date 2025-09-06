@@ -1,7 +1,7 @@
 {
   "norwegian": "Vipe",
   "latin": "Vanellus vanellus",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "02-01", "latest": "02-28" },
   "departure": { "earliest": "07-01", "latest": "11-30" },
   "eggs_laid": { "earliest": "04-01", "latest": "05-15" },

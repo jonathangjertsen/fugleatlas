@@ -1,7 +1,7 @@
 {
   "norwegian": "Nøttekråke",
   "latin": "Nucifraga caryocatactes",
-  "migratoriness": "resident",
+  "migratoriness": "Standfugl",
   "arrival": null,
   "departure": null,
   "eggs_laid": { "earliest": "03-01", "latest": "04-30" },

@@ -1,7 +1,8 @@
 {
   "norwegian": "Hettemåke",
   "latin": "Larus ridibundus",
-  "migratoriness": "partial_migrant",
+  "category": "Måker",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "04-10", "latest": "04-20" },
   "departure": { "earliest": "08-15", "latest": "09-30" },
   "eggs_laid": { "earliest": "04-25", "latest": "05-31" },

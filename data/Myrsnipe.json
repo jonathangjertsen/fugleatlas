@@ -1,7 +1,7 @@
 {
   "norwegian": "Myrsnipe",
   "latin": "Calidris alpina",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "05-20", "latest": "05-31" },
   "departure": { "earliest": "07-15", "latest": "08-15" },
   "eggs_laid": { "earliest": "05-20", "latest": "06-30" },

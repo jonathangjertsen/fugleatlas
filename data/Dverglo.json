@@ -1,7 +1,7 @@
 {
   "norwegian": "Dverglo",
   "latin": "Charadrius dubius",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-20", "latest": "05-10" },
   "departure": null,
   "eggs_laid": { "earliest": "05-01", "latest": "06-15" },

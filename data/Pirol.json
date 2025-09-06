@@ -1,7 +1,7 @@
 {
   "norwegian": "Pirol",
   "latin": "Oriolus oriolus",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "05-30", "latest": "06-05" },
   "departure": { "earliest": "08-01", "latest": "08-31" },
   "eggs_laid": null,

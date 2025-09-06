@@ -1,7 +1,7 @@
 {
   "norwegian": "Kornkråke",
   "latin": "Corvus frugilegus",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-25", "latest": "03-31" },
   "departure": { "earliest": "09-01", "latest": "10-31" },
   "eggs_laid": { "earliest": "04-01", "latest": "05-31" },

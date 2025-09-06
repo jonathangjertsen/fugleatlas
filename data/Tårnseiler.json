@@ -1,7 +1,8 @@
 {
   "norwegian": "Tårnseiler",
   "latin": "Apus apus",
-  "migratoriness": "migrant",
+  "category": "Andre fugler",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-25", "latest": "06-14" },
   "departure": { "earliest": "09-01", "latest": "11-30" },
   "eggs_laid": { "earliest": "06-01", "latest": "06-30" },

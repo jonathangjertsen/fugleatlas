@@ -1,7 +1,7 @@
 {
   "norwegian": "Lappspurv",
   "latin": "Calcarius lapponicus",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-15", "latest": "05-10" },
   "departure": { "earliest": "09-01", "latest": "10-31" },
   "eggs_laid": { "earliest": "06-01", "latest": "06-15" },

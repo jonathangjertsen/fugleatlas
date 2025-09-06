@@ -1,7 +1,8 @@
 {
+  "category": "Fluesnappere",
   "norwegian": "Blåstrupe",
   "latin": "Luscinia svecica",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-01", "latest": "04-30" },
   "departure": { "earliest": "09-01", "latest": "09-30" },
   "eggs_laid": { "earliest": "05-15", "latest": "06-15" },

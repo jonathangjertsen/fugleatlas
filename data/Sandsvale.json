@@ -1,7 +1,7 @@
 {
   "norwegian": "Sandsvale",
   "latin": "Riparia riparia",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-20", "latest": "05-31" },
   "departure": { "earliest": "08-25", "latest": "09-15" },
   "eggs_laid": { "earliest": "06-01", "latest": "06-15" },

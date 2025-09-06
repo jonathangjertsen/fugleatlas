@@ -1,7 +1,7 @@
 {
   "norwegian": "Trekryper",
   "latin": "Certhia familiaris",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-01", "latest": "04-30" },
   "departure": { "earliest": "09-01", "latest": "10-31" },
   "eggs_laid": { "earliest": "04-01", "latest": "05-31" },

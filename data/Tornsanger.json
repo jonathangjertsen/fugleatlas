@@ -1,7 +1,7 @@
 {
   "norwegian": "Tornsanger",
   "latin": "Sylvia communis",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-25", "latest": "05-31" },
   "departure": { "earliest": "07-01", "latest": "09-30" },
   "eggs_laid": { "earliest": "05-25", "latest": "06-30" },

@@ -1,7 +1,8 @@
 {
   "norwegian": "Kanadagås",
   "latin": "Branta canadensis",
-  "migratoriness": "partial_migrant",
+  "category": "Andefugler",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": null,
   "departure": null,
   "eggs_laid": null,

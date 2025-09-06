@@ -1,7 +1,8 @@
 {
   "norwegian": "Vepsevåk",
   "latin": "Pernis apivorus",
-  "migratoriness": "migrant",
+  "category": "Rovfugler",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-01", "latest": "05-15" },
   "departure": { "earliest": "08-25", "latest": "09-15" },
   "eggs_laid": { "earliest": "06-01", "latest": "06-15" },

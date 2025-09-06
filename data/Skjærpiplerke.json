@@ -1,7 +1,7 @@
 {
   "norwegian": "Skjærpiplerke",
   "latin": "Anthus petrosus",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-15", "latest": "04-30" },
   "departure": { "earliest": "09-01", "latest": "10-31" },
   "eggs_laid": { "earliest": "05-01", "latest": "06-15" },

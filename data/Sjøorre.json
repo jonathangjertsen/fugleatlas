@@ -1,7 +1,7 @@
 {
   "norwegian": "Sjøorre",
   "latin": "Melanitta fusca",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "04-01", "latest": "06-10" },
   "departure": { "earliest": "09-01", "latest": "11-30" },
   "eggs_laid": { "earliest": "05-25", "latest": "07-10" },

@@ -1,7 +1,7 @@
 {
   "norwegian": "Sivhøne",
   "latin": "Gallinula chloropus",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": null,
   "departure": null,
   "eggs_laid": { "earliest": "04-15", "latest": "07-31" },

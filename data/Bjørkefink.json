@@ -1,7 +1,8 @@
 {
+  "category": "Finker",
   "norwegian": "Bjørkefink",
   "latin": "Fringilla montifringilla",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-01", "latest": "05-15" },
   "departure": { "earliest": "09-01", "latest": "10-31" },
   "eggs_laid": { "earliest": "05-15", "latest": "06-30" },

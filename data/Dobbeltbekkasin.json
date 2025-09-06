@@ -1,7 +1,7 @@
 {
   "norwegian": "Dobbeltbekkasin",
   "latin": "Gallinago media",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "05-10", "latest": "05-15" },
   "departure": null,
   "eggs_laid": null,

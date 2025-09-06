@@ -1,7 +1,8 @@
 {
   "norwegian": "Tyrkerdue",
   "latin": "Streptopelia decaocto",
-  "migratoriness": "resident",
+  "category": "Duer",
+  "migratoriness": "Standfugl",
   "arrival": null,
   "departure": null,
   "eggs_laid": { "earliest": "04-01", "latest": "07-31" },

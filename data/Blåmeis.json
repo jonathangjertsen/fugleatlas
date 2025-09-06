@@ -1,7 +1,8 @@
 {
+  "category": "Meiser",
   "norwegian": "Blåmeis",
   "latin": "Parus caeruleus",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": null,
   "departure": {
     "earliest": "09-01",

@@ -1,7 +1,7 @@
 {
   "norwegian": "Svartbak",
   "latin": "Larus marinus",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": null,
   "departure": { "earliest": "09-01", "latest": "11-30" },
   "eggs_laid": { "earliest": "04-15", "latest": "05-15" },

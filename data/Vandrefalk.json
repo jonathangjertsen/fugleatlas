@@ -1,7 +1,8 @@
 {
   "norwegian": "Vandrefalk",
   "latin": "Falco peregrinus",
-  "migratoriness": "partial_migrant",
+  "category": "Rovfugler",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-01", "latest": "03-31" },
   "departure": null,
   "eggs_laid": { "earliest": "04-01", "latest": "04-15" },

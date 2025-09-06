@@ -1,7 +1,7 @@
 {
   "norwegian": "Toppskarv",
   "latin": "Phalacrocorax aristotelis",
-  "migratoriness": "resident",
+  "migratoriness": "Standfugl",
   "arrival": null,
   "departure": null,
   "eggs_laid": { "earliest": "05-10", "latest": "05-20" },

@@ -1,7 +1,8 @@
 {
   "norwegian": "Hvitkinngås",
   "latin": "Branta leucopsis",
-  "migratoriness": "migrant",
+  "category": "Andefugler",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "05-01", "latest": "05-15" },
   "departure": { "earliest": "11-01", "latest": "11-15" },
   "eggs_laid": { "earliest": "05-15", "latest": "06-15" },

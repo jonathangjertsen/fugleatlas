@@ -1,7 +1,8 @@
 {
   "norwegian": "Gråmåke",
   "latin": "Larus argentatus",
-  "migratoriness": "partial_migrant",
+  "category": "Måker",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": null,
   "departure": {
     "earliest": "08-01",

@@ -1,7 +1,8 @@
 {
   "norwegian": "Fuglekonge",
   "latin": "Regulus regulus",
-  "migratoriness": "partial_migrant",
+  "category": "Sangere",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": null,
   "departure": null,
   "eggs_laid": { "earliest": "04-01", "latest": "07-31" },

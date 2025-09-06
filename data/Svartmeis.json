@@ -1,7 +1,7 @@
 {
   "norwegian": "Svartmeis",
   "latin": "Parus ater",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": null,
   "departure": null,
   "eggs_laid": { "earliest": "04-10", "latest": "04-30" },

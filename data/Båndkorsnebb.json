@@ -1,7 +1,7 @@
 {
   "norwegian": "Båndkorsnebb",
   "latin": "Loxia leucoptera",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": null,
   "departure": { "earliest": "06-01", "latest": "06-15" },
   "eggs_laid": { "earliest": "04-08", "latest": "05-15" },

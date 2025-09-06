@@ -1,7 +1,7 @@
 {
   "norwegian": "Svømmesnipe",
   "latin": "Phalaropus lobatus",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": null,
   "departure": { "earliest": "07-01", "latest": "09-30" },
   "eggs_laid": { "earliest": "06-01", "latest": "07-15" },

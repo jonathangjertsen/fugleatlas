@@ -1,7 +1,7 @@
 {
   "norwegian": "Låvesvale",
   "latin": "Hirundo rustica",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-25", "latest": "06-01" },
   "departure": { "earliest": "08-25", "latest": "10-31" },
   "eggs_laid": { "earliest": "05-20", "latest": "09-30" },

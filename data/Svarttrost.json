@@ -1,7 +1,7 @@
 {
   "norwegian": "Svarttrost",
   "latin": "Turdus merula",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-15", "latest": "04-30" },
   "departure": { "earliest": "09-25", "latest": "11-30" },
   "eggs_laid": { "earliest": "04-01", "latest": "06-30" },

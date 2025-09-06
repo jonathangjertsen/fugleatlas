@@ -1,7 +1,7 @@
 {
   "norwegian": "Hagesanger",
   "latin": "Sylvia borin",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "05-15", "latest": "05-31" },
   "departure": { "earliest": "07-15", "latest": "10-31" },
   "eggs_laid": { "earliest": "06-01", "latest": "06-30" },

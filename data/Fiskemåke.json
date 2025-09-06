@@ -1,7 +1,8 @@
 {
   "norwegian": "Fiskemåke",
   "latin": "Larus canus",
-  "migratoriness": "partial_migrant",
+  "category": "Måker",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-01", "latest": "04-15" },
   "departure": { "earliest": "08-01", "latest": "09-30" },
   "eggs_laid": { "earliest": "05-01", "latest": "05-31" },

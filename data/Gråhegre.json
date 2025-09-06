@@ -1,7 +1,7 @@
 {
   "norwegian": "Gråhegre",
   "latin": "Ardea cinerea",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-01", "latest": "03-31" },
   "departure": { "earliest": "08-01", "latest": "09-30" },
   "eggs_laid": { "earliest": "03-01", "latest": "05-31" },

@@ -1,7 +1,7 @@
 {
   "norwegian": "Buskskvett",
   "latin": "Saxicola rubetra",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "05-01", "latest": "05-15" },
   "departure": { "earliest": "08-01", "latest": "09-30" },
   "eggs_laid": { "earliest": "05-20", "latest": "06-15" },

@@ -1,7 +1,7 @@
 {
   "norwegian": "Sildemåke",
   "latin": "Larus fuscus",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "04-01", "latest": "05-31" },
   "departure": { "earliest": null, "latest": null },
   "eggs_laid": { "earliest": "05-15", "latest": "06-15" },

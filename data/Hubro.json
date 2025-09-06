@@ -1,7 +1,7 @@
 {
   "norwegian": "Hubro",
   "latin": "Bubo bubo",
-  "migratoriness": "resident",
+  "migratoriness": "Standfugl",
   "arrival": null,
   "departure": null,
   "eggs_laid": { "earliest": "03-15", "latest": "04-15" },

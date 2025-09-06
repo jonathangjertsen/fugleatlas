@@ -1,7 +1,7 @@
 {
   "norwegian": "Lappiplerke",
   "latin": "Anthus cervinus",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "05-01", "latest": "06-10" },
   "departure": { "earliest": "08-01", "latest": "10-31" },
   "eggs_laid": { "earliest": "06-01", "latest": "06-30" },

@@ -1,7 +1,7 @@
 {
   "norwegian": "Sædgås",
   "latin": "Anser fabalis",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "04-15", "latest": "05-15" },
   "departure": null,
   "eggs_laid": null,

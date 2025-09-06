@@ -1,7 +1,7 @@
 {
   "norwegian": "Fjæreplytt",
   "latin": "Calidris maritima",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": null,
   "departure": { "earliest": "08-01", "latest": "08-31" },
   "eggs_laid": { "earliest": "05-20", "latest": "06-30" },

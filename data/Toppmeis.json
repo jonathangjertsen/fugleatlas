@@ -1,7 +1,7 @@
 {
   "norwegian": "Toppmeis",
   "latin": "Parus cristatus",
-  "migratoriness": "resident",
+  "migratoriness": "Standfugl",
   "arrival": null,
   "departure": null,
   "eggs_laid": { "earliest": "03-25", "latest": "04-30" },

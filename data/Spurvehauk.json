@@ -1,7 +1,7 @@
 {
   "norwegian": "Spurvehauk",
   "latin": "Accipiter nisus",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-01", "latest": "04-30" },
   "departure": { "earliest": "08-01", "latest": "10-31" },
   "eggs_laid": { "earliest": "05-01", "latest": "05-31" },

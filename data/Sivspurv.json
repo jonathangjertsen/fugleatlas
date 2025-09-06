@@ -1,7 +1,7 @@
 {
   "norwegian": "Sivspurv",
   "latin": "Emberiza schoeniclus",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-25", "latest": "05-15" },
   "departure": { "earliest": "08-15", "latest": "10-15" },
   "eggs_laid": { "earliest": "05-01", "latest": "05-31" },

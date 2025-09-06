@@ -1,7 +1,7 @@
 {
   "norwegian": "Hvitryggspett",
   "latin": "Dendrocopos leucotos",
-  "migratoriness": "resident",
+  "migratoriness": "Standfugl",
   "arrival": null,
   "departure": null,
   "eggs_laid": { "earliest": "04-25", "latest": "05-10" },

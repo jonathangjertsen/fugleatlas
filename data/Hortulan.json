@@ -1,7 +1,7 @@
 {
   "norwegian": "Hortulan",
   "latin": "Emberiza hortulana",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "05-01", "latest": "05-10" },
   "departure": null,
   "eggs_laid": { "earliest": "05-01", "latest": "06-10" },

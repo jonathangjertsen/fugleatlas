@@ -1,7 +1,7 @@
 {
   "norwegian": "Stær",
   "latin": "Sturnus vulgaris",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "02-01", "latest": "03-31" },
   "departure": { "earliest": "06-01", "latest": "09-30" },
   "eggs_laid": { "earliest": "04-20", "latest": "05-31" },

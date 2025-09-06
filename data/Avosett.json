@@ -1,7 +1,7 @@
 {
   "norwegian": "Avosett",
   "latin": "Recurvirostra avosetta",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "03-25", "latest": "03-31" },
   "departure": { "earliest": "07-15", "latest": "08-10" },
   "eggs_laid": { "earliest": "05-01", "latest": "05-15" },

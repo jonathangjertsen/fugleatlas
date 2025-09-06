@@ -1,7 +1,7 @@
 {
   "norwegian": "Havhest",
   "latin": "Fulmarus glacialis",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "01-01", "latest": "03-31" },
   "departure": null,
   "eggs_laid": { "earliest": "05-01", "latest": "05-10" },

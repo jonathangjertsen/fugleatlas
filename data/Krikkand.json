@@ -1,7 +1,8 @@
 {
   "norwegian": "Krikkand",
   "latin": "Anas crecca",
-  "migratoriness": "migrant",
+  "category": "Andefugler",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-01", "latest": "04-30" },
   "departure": null,
   "eggs_laid": null,

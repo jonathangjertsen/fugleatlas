@@ -1,7 +1,7 @@
 {
   "norwegian": "Vaktel",
   "latin": "Coturnix coturnix",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-01", "latest": "04-30" },
   "departure": { "earliest": "08-01", "latest": "08-31" },
   "eggs_laid": { "earliest": "06-01", "latest": "07-31" },

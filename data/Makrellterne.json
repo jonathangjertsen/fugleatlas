@@ -1,7 +1,7 @@
 {
   "norwegian": "Makrellterne",
   "latin": "Sterna hirundo",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-30", "latest": "05-05" },
   "departure": { "earliest": "07-15", "latest": "09-30" },
   "eggs_laid": { "earliest": "05-01", "latest": "05-31" },

@@ -1,7 +1,8 @@
 {
   "norwegian": "Gråspett",
   "latin": "Picus canus",
-  "migratoriness": "partial_migrant",
+  "category": "Spetter",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": null,
   "departure": null,
   "eggs_laid": { "earliest": "05-15", "latest": "05-31" },

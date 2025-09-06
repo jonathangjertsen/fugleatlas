@@ -1,7 +1,7 @@
 {
   "norwegian": "Rødstilk",
   "latin": "Tringa totanus",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-20", "latest": "05-15" },
   "departure": null,
   "eggs_laid": { "earliest": "05-01", "latest": "06-15" },

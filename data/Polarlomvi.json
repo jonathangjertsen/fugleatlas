@@ -1,7 +1,7 @@
 {
   "norwegian": "Polarlomvi",
   "latin": "Uria lomvia",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "04-01", "latest": "04-30" },
   "departure": null,
   "eggs_laid": { "earliest": "05-01", "latest": "05-31" },

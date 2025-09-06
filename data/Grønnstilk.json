@@ -1,7 +1,7 @@
 {
   "norwegian": "Grønnstilk",
   "latin": "Tringa glareola",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-01", "latest": "05-31" },
   "departure": { "earliest": "06-01", "latest": "08-31" },
   "eggs_laid": { "earliest": "05-01", "latest": "05-31" },

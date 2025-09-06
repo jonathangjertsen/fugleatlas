@@ -1,7 +1,7 @@
 {
   "norwegian": "Myrrikse",
   "latin": "Porzana porzana",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-01", "latest": "05-15" },
   "departure": { "earliest": "08-15", "latest": "09-30" },
   "eggs_laid": { "earliest": "05-15", "latest": "06-30" },

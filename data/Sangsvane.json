@@ -1,7 +1,7 @@
 {
   "norwegian": "Sangsvane",
   "latin": "Cygnus cygnus",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-01", "latest": "04-30" },
   "departure": { "earliest": "10-01", "latest": "01-10" },
   "eggs_laid": null,

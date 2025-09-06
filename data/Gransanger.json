@@ -1,7 +1,8 @@
 {
   "norwegian": "Gransanger",
   "latin": "Phylloscopus collybita",
-  "migratoriness": "migrant",
+  "category": "Sangere",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "03-25", "latest": "05-15" },
   "departure": { "earliest": "09-01", "latest": "10-31" },
   "eggs_laid": { "earliest": "05-01", "latest": "05-31" },

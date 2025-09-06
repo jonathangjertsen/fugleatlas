@@ -1,7 +1,8 @@
 {
   "norwegian": "Lappfiskand",
   "latin": "Mergus albellus",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
+  "category": "Andefugler",
   "arrival": { "earliest": "05-10", "latest": "05-20" },
   "departure": null,
   "eggs_laid": { "earliest": "05-25", "latest": "06-10" },

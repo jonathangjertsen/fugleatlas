@@ -1,7 +1,7 @@
 {
   "norwegian": "Vendehals",
   "latin": "Jynx torquilla",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-20", "latest": "05-10" },
   "departure": { "earliest": "08-15", "latest": "09-10" },
   "eggs_laid": { "earliest": "05-15", "latest": "05-31" },

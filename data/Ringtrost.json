@@ -1,7 +1,7 @@
 {
   "norwegian": "Ringtrost",
   "latin": "Turdus torquatus",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-01", "latest": "05-15" },
   "departure": { "earliest": "09-15", "latest": "11-15" },
   "eggs_laid": { "earliest": "05-25", "latest": "06-10" },

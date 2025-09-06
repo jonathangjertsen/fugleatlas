@@ -1,7 +1,7 @@
 {
   "norwegian": "Fiskeørn",
   "latin": "Pandion haliaetus",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-15", "latest": "04-30" },
   "departure": { "earliest": "08-01", "latest": "10-31" },
   "eggs_laid": { "earliest": "04-25", "latest": "05-15" },

@@ -52,7 +52,7 @@ Ekstraher følgende felter og svar kun med gyldig JSON (ingen forklarende tekst)
 
 - norwegian: fuglens norske navn
 - latin: fuglens latinske navn
-- migratoriness: {{resident, partial_migrant, migrant}}
+- migratoriness: {{Standfugl, Delvis trekkfugl, Trekkfugl}}
 - arrival: tidspunkt for ankomst til Norge ved trekk
 - departure: tidspunkt for avreise fra Norge ved trekk
 - eggs_laid: tidspunkt for egglegging (hvis flere kull skal "earliest" referere til første kull, og "latest" referere til siste kull)
@@ -68,7 +68,7 @@ Output:
 {{
   "norwegian": "Sothøne",
   "latin": "Fulica atra",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": {{ "earliest": "04-15", "latest": "05-01" }},
   "departure": {{ "earliest": "10-15", "latest": "11-30" }},
   "eggs_laid": {{ "earliest": "04-20", "latest": "05-31" }},

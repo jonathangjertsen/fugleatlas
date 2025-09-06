@@ -1,7 +1,7 @@
 {
   "norwegian": "Rødvingetrost",
   "latin": "Turdus iliacus",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "03-25", "latest": "04-10" },
   "departure": { "earliest": "09-15", "latest": "11-15" },
   "eggs_laid": { "earliest": "05-01", "latest": "06-10" },

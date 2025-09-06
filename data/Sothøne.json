@@ -1,7 +1,7 @@
 {
   "norwegian": "Sothøne",
   "latin": "Fulica atra",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": null,
   "departure": { "earliest": "10-15", "latest": "11-30" },
   "eggs_laid": { "earliest": "04-15", "latest": "05-31" },

@@ -1,7 +1,7 @@
 {
   "norwegian": "Fasan",
   "latin": "Phasianus colchicus",
-  "migratoriness": "resident",
+  "migratoriness": "Standfugl",
   "arrival": null,
   "departure": null,
   "eggs_laid": { "earliest": "04-01", "latest": "06-30" },

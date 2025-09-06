@@ -1,7 +1,7 @@
 {
   "norwegian": "Gresshoppesanger",
   "latin": "Locustella naevia",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-25", "latest": "05-15" },
   "departure": { "earliest": "08-01", "latest": "10-10" },
   "eggs_laid": { "earliest": "05-01", "latest": "07-01" },

@@ -1,7 +1,7 @@
 {
   "norwegian": "Kaie",
   "latin": "Corvus monedula",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "02-01", "latest": "04-30" },
   "departure": { "earliest": "10-01", "latest": "11-30" },
   "eggs_laid": { "earliest": "04-25", "latest": "05-10" },

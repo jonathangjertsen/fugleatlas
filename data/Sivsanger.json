@@ -1,7 +1,7 @@
 {
   "norwegian": "Myrsanger",
   "latin": "Acrocephalus palustris",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "05-30", "latest": "06-10" },
   "departure": { "earliest": "08-01", "latest": "09-30" },
   "eggs_laid": { "earliest": "06-01", "latest": "07-31" },

@@ -21,6 +21,8 @@ flowchart TD
     presentationdata --> viz
 ```
 
+Sluttresultatet er dette (OBS: data er ikke gjennomgått for riktighet!): https://github.com/jonathangjertsen/fugleatlas/blob/master/bird_timeline.svg
+
 ## Detaljer om skriptene
 
 ### `download.py`
@@ -58,3 +60,7 @@ Bruker en språkmodell til å hente ut informasjon fra artiklene.
 Krever miljøvariabelen `OPENAI_API_KEY` og pakken `openai`.
 
 Du må også ha noen API credits, men ikke så mye. Pr. september 2025 koster det $0.3 å kjøre gjennom alle artiklene, så ca 2 amerikanske grunker hvis du vil kjøre det for hver landsdel (ikke støttet - rediger i så fall instruksjonene i kildekoden).
+
+### `viz.py`
+
+Genererer kalender-plakat for når de forskjellige fuglene kommer, har egg og har unger i Oslo og omegn.

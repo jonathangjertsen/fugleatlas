@@ -1,7 +1,7 @@
 {
   "norwegian": "Snøgås",
   "latin": "Anser caerulescens",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-20", "latest": "04-30" },
   "departure": { "earliest": "10-01", "latest": "11-30" },
   "eggs_laid": { "earliest": "05-01", "latest": "05-31" },

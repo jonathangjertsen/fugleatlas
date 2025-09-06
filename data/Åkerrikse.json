@@ -1,7 +1,7 @@
 {
   "norwegian": "Åkerrikse",
   "latin": "Crex crex",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-25", "latest": "05-31" },
   "departure": { "earliest": "09-01", "latest": "11-30" },
   "eggs_laid": { "earliest": "05-25", "latest": "08-31" },

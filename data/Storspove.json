@@ -1,7 +1,7 @@
 {
   "norwegian": "Storspove",
   "latin": "Numenius arquata",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "03-01", "latest": "04-30" },
   "departure": { "earliest": null, "latest": null },
   "eggs_laid": { "earliest": null, "latest": null },

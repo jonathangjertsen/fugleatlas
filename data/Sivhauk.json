@@ -1,7 +1,7 @@
 {
   "norwegian": "Sivhauk",
   "latin": "Circus aeruginosus",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-15", "latest": "05-31" },
   "departure": { "earliest": "08-15", "latest": "09-15" },
   "eggs_laid": null,

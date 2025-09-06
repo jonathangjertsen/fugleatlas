@@ -1,7 +1,7 @@
 {
   "norwegian": "Gjøk",
   "latin": "Cuculus canorus",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "05-01", "latest": "05-10" },
   "departure": { "earliest": "07-25", "latest": "08-10" },
   "eggs_laid": null,

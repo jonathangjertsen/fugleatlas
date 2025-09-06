@@ -1,7 +1,7 @@
 {
   "norwegian": "Musvåk",
   "latin": "Buteo buteo",
-  "migratoriness": "partial_migrant",
+  "migratoriness": "Delvis trekkfugl",
   "arrival": { "earliest": "03-01", "latest": "03-31" },
   "departure": null,
   "eggs_laid": { "earliest": "04-10", "latest": "04-20" },

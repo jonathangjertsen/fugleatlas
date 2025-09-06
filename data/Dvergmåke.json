@@ -1,7 +1,8 @@
 {
   "norwegian": "Dvergmåke",
   "latin": "Larus minutus",
-  "migratoriness": "migrant",
+  "category": "Måker",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "04-20", "latest": "05-31" },
   "departure": { "earliest": "07-01", "latest": "07-31" },
   "eggs_laid": { "earliest": "05-15", "latest": "05-31" },

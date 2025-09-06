@@ -1,7 +1,7 @@
 {
   "norwegian": "Hornugle",
   "latin": "Asio otus",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "03-01", "latest": "06-30" },
   "departure": { "earliest": "09-01", "latest": "12-31" },
   "eggs_laid": { "earliest": "03-01", "latest": "05-15" },

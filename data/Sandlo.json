@@ -1,7 +1,7 @@
 {
   "norwegian": "Sandlo",
   "latin": "Charadrius hiaticula",
-  "migratoriness": "migrant",
+  "migratoriness": "Trekkfugl",
   "arrival": { "earliest": "03-01", "latest": "04-30" },
   "departure": { "earliest": "08-01", "latest": "09-30" },
   "eggs_laid": { "earliest": "05-01", "latest": "06-21" },
