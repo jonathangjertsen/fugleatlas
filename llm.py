@@ -8,7 +8,7 @@ AREA = "Oslo og omegn"
 
 ROOT = Path(__file__).parent
 TXT_DIR = ROOT / "cleaned"
-JSON_DIR = ROOT / "raw_llm"
+JSON_DIR = ROOT / "data_llm"
 
 def main():
     # TODO: do em in parallel

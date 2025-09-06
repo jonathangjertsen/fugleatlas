@@ -7,6 +7,7 @@ Dette repoet inneholder skript for å laste ned PDFer fra https://www.birdlife.n
 3. `clean.py` renser opp tekstfilene
 4. `llm.py` utfører analyse med en språkmodell
 5. dataene er sjekket inn og korrigert manuelt.
+6. `viz.py` plotter trekk- og hekketider for artene.
 
 ```mermaid
 flowchart TD
@@ -16,6 +17,8 @@ flowchart TD
     cleaned -->|llm.py| data_llm
     data_llm -->|cp -r data_llm data| data
     data -->|manuell redigering| data
+    data -->|viz.py| viz
+    presentationdata --> viz
 ```
 
 ## Detaljer om skriptene
@@ -54,4 +57,4 @@ Bruker en språkmodell til å hente ut informasjon fra artiklene.
 
 Krever miljøvariabelen `OPENAI_API_KEY` og pakken `openai`.
 
-Du må også ha noen API credits, men ikke så mye. Pr. september 2025 koster det $0.2 å kjøre gjennom alle artiklene, så ca $1 hvis du vil kjøre det for hver landsdel (ikke støttet - rediger i så fall instruksjonene i kildekoden).
+Du må også ha noen API credits, men ikke så mye. Pr. september 2025 koster det $0.3 å kjøre gjennom alle artiklene, så ca 2 amerikanske grunker hvis du vil kjøre det for hver landsdel (ikke støttet - rediger i så fall instruksjonene i kildekoden).
