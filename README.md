@@ -5,12 +5,14 @@ Dette repoet inneholder skript for å laste ned PDFer fra https://www.birdlife.n
 1. `download.py` laster ned alle PDF-filene
 2. `ocr.py` konverterer PDF-filene til tekstformat
 3. `clean.py` renser opp tekstfilene
+4. `llm.py` utfører analyse med en språkmodell
 
 ```mermaid
 flowchart TD
     sourcedata -->|download.py| pdfs
     pdfs -->|ocr.py| raw_ocrs
     raw_ocrs -->|clean.py| cleaned
+    cleaned -->|llm.py| raw_llm
 ```
 
 ## Detaljer om skriptene
@@ -43,3 +45,10 @@ I tillegg kreves Python-pakkene `pdf2image` og `pytesseract`.
 
 OCR gjør det meste riktig, men det er noen feil, for eksempel blir `fôr` konsekvent til `för`. Dette skriptet finner slike ting og fikser. Her gjøres også manuelle fikser for ting jeg fant da jeg leste gjennom filene.
 
+### `llm.py`
+
+Bruker en språkmodell til å hente ut informasjon fra artiklene.
+
+Krever miljøvariabelen `OPENAI_API_KEY` og pakken `openai`.
+
+Du må også ha noen API credits, men ikke så mye. Pr. september 2025 koster det $0.2 å kjøre gjennom alle artiklene, så ca $1 hvis du vil kjøre det for hver landsdel (ikke støttet - rediger i så fall instruksjonene i kildekoden).
