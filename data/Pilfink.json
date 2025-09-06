@@ -1,0 +1,11 @@
+{
+  "norwegian": "Pilfink",
+  "latin": "Passer montanus",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "05-01", "latest": "07-31" },
+  "eggs_hatch": { "earliest": "05-13", "latest": "08-14" },
+  "chicks_fledge": { "earliest": "05-28", "latest": "09-03" },
+  "remarks": "Ankomsttidspunkt for trekk til Oslo og omegn er ikke spesifisert i teksten. Avreise er tolket som høsttrekk i september-oktober. Hekkebiologi basert på to kull i mai og juni-juli med rugetid 12-14 dager og reirtid 15-20 dager."
+}

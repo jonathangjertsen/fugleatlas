@@ -1,0 +1,11 @@
+{
+  "norwegian": "Havsvale",
+  "latin": "Hydrobates pelagicus",
+  "migratoriness": "migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "08-01", "latest": "08-31" },
+  "eggs_hatch": { "earliest": "09-10", "latest": "10-10" },
+  "chicks_fledge": { "earliest": "11-20", "latest": "12-10" },
+  "remarks": "Ingen spesifikke trekkankomst- og avreisedatoer for Oslo og omegn i teksten. Egglegging i Nord-Norge starter i august, tolket som relevant for Oslo og omegn da hekkefunn i Norge er langs kysten. Rugetid ca. 40 dager, ungene i reiret 50-80 dager."
+}

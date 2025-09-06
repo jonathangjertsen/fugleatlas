@@ -1,0 +1,11 @@
+{
+  "norwegian": "Sandlo",
+  "latin": "Charadrius hiaticula",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "03-01", "latest": "04-30" },
+  "departure": { "earliest": "08-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-01", "latest": "06-21" },
+  "eggs_hatch": { "earliest": "05-24", "latest": "07-16" },
+  "chicks_fledge": { "earliest": "06-18", "latest": "08-10" },
+  "remarks": "Datoer tolket for Oslofjorden og omegn basert på kyststrøk og fjellstrøk i Trøndelag og Jæren."
+}

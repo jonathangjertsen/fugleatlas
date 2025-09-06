@@ -1,0 +1,11 @@
+{
+  "norwegian": "Varsler",
+  "latin": "Lanius excubitor",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "05-01", "latest": "06-30" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for ankomst, avreise, klekking eller flyvedyktighet i Oslo og omegn. Hekkebiologi angir egglegging i mai-juni, men klekking og flyvedyktighet er ikke datert. Varsleren er fåtallig rundt Oslofjorden."
+}

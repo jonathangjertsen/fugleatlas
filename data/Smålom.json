@@ -1,0 +1,11 @@
+{
+  "norwegian": "Smålom",
+  "latin": "Gavia stellata",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-01", "latest": "05-31" },
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "04-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "04-27", "latest": "07-05" },
+  "chicks_fledge": { "earliest": "05-22", "latest": "08-15" },
+  "remarks": "Tidsangivelser er tolket for Oslo og omegn basert på kystnære hekkeforhold og generell beskrivelse av hekkebiologi og trekk."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Taffelanda",
+  "latin": "Aythya ferina",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-25", "latest": "05-31" },
+  "departure": { "earliest": "11-01", "latest": "12-31" },
+  "eggs_laid": { "earliest": "05-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "05-26", "latest": "07-25" },
+  "chicks_fledge": { "earliest": "07-15", "latest": "08-20" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på beskrivelse av hekkebiologi og trekkforhold. Egglegging i mai/juni, klekking etter 25 dager, flyvedyktige etter 50-55 dager. Ankomst i slutten av april og mai, avreise i november-desember."
+}

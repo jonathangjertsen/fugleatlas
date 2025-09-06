@@ -1,0 +1,11 @@
+{
+  "norwegian": "Lavskrike",
+  "latin": "Perisoreus infaustus",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "03-25", "latest": "05-01" },
+  "eggs_hatch": { "earliest": "04-15", "latest": "05-21" },
+  "chicks_fledge": null,
+  "remarks": "Lavskrike er helårig stasjonær i Oslo og omegn, ingen trekk. Hekkedatoer tolket for Sør-Norge. Mangler data for ungfuglenes flyvedyktighet."
+}

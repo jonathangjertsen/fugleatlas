@@ -1,0 +1,11 @@
+{
+  "norwegian": "Vannrikse",
+  "latin": "Rallus aquaticus",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-01", "latest": "04-30" },
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "04-20", "latest": "08-10" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Eggklekkings- og flyvedyktighetsdatoer er ikke oppgitt i teksten. Egglegging kan forekomme sent i april til tidlig august, usikkert om to kull forekommer i Norge."
+}

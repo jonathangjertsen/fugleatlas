@@ -1,0 +1,11 @@
+{
+  "norwegian": "Toppmeis",
+  "latin": "Parus cristatus",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "03-25", "latest": "04-30" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for klekking og flyvedyktighet. Artikkel beskriver toppmeisa som standfugl i Norge, ingen trekkdatoer. Egglegging starter vanligvis tidlig april, unntaksvis slutten mars. Data gjelder generelt for Sør-Norge, tolket som relevant for Oslo og omegn."
+}

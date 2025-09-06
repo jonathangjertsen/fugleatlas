@@ -1,0 +1,11 @@
+{
+  "norwegian": "Kaie",
+  "latin": "Corvus monedula",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "02-01", "latest": "04-30" },
+  "departure": { "earliest": "10-01", "latest": "11-30" },
+  "eggs_laid": { "earliest": "04-25", "latest": "05-10" },
+  "eggs_hatch": { "earliest": "05-12", "latest": "05-28" },
+  "chicks_fledge": { "earliest": "06-10", "latest": "06-30" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på beskrivelse av hekkestart i slutten av april/først i mai og rugingstid på 17-18 dager, samt ungene forlater reiret etter ca. 4 uker."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Lappugle",
+  "latin": "Strix nebulosa",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-01", "latest": "05-15" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke trekkdatoer eller klekketidspunkt oppgitt for Oslo og omegn. Hekking i Norge er svært sjelden og marginal, med få funn i Sør-Norge. Lappugla er overveiende nomadisk og kan være stasjonær i høyproduktive områder. Data for Oslo og omegn mangler."
+}

@@ -1,0 +1,17 @@
+{
+  "norwegian": "Stillits",
+  "latin": "Carduelis carduelis",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": {
+    "earliest": "10-01",
+    "latest": "10-31"
+  },
+  "eggs_laid": {
+    "earliest": "05-01",
+    "latest": "07-31"
+  },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen eksakte datoer for ankomst, klekking og flyvedyktighet i Oslo og omegn. Avreise antatt i oktober basert på høstobservasjoner. Egglegging fra tidlig mai til juli, trolig pga omlagte kull."
+}

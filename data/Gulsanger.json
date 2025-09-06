@@ -1,0 +1,11 @@
+{
+  "norwegian": "Gulsanger",
+  "latin": "Hippolais icterina",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-20", "latest": "05-31" },
+  "departure": { "earliest": "07-25", "latest": "09-15" },
+  "eggs_laid": { "earliest": "06-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-15", "latest": "07-15" },
+  "chicks_fledge": { "earliest": "07-01", "latest": "07-31" },
+  "remarks": "Datoer tolket for Sør-Norge/Oslo og omegn basert på tekstens beskrivelser."
+}

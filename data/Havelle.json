@@ -1,0 +1,11 @@
+{
+  "norwegian": "Havelle",
+  "latin": "Clangula hyemalis",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-01", "latest": "06-15" },
+  "departure": null,
+  "eggs_laid": { "earliest": "06-10", "latest": "06-20" },
+  "eggs_hatch": { "earliest": "07-04", "latest": "07-14" },
+  "chicks_fledge": { "earliest": "08-08", "latest": "08-18" },
+  "remarks": "Avreise fra Norge ved trekk er ikke spesifisert i teksten. Datoer for egglegging og klekking er tolket ut fra rugetid på 24 dager og egglegging midt i juni. Flyvedyktighet antatt 5 uker etter klekking. For Oslo og omegn er det ikke spesifikt nevnt hekkefunn, men siden hekkingen i Sør-Norge er sparsom og hovedsakelig i fjelltrakter, er datoene basert på Sør-Norge generelt."
+}

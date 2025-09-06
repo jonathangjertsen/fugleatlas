@@ -1,0 +1,11 @@
+{
+  "norwegian": "Fjæreplytt",
+  "latin": "Calidris maritima",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": { "earliest": "08-01", "latest": "08-31" },
+  "eggs_laid": { "earliest": "05-20", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-10", "latest": "07-20" },
+  "chicks_fledge": { "earliest": "07-05", "latest": "08-15" },
+  "remarks": "Ingen spesifikk ankomsttid for Oslo og omegn oppgitt. Datoer tolket fra hekkebiologi og trekkforhold i Sør-Norge."
+}

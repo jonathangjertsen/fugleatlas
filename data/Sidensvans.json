@@ -1,0 +1,11 @@
+{
+  "norwegian": "Sidensvans",
+  "latin": "Bombycilla garrulus",
+  "migratoriness": "migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "05-25", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-08", "latest": "07-15" },
+  "chicks_fledge": { "earliest": "06-22", "latest": "07-30" },
+  "remarks": "Ingen spesifikke datoer for ankomst og avreise i Oslo og omegn; hekkedata er tolket fra hele Norge, men utbredelsen i Oslo og omegn er usikker og antatt sporadisk."
+}

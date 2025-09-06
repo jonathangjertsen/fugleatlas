@@ -1,0 +1,11 @@
+{
+  "norwegian": "Svarttrost",
+  "latin": "Turdus merula",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-15", "latest": "04-30" },
+  "departure": { "earliest": "09-25", "latest": "11-30" },
+  "eggs_laid": { "earliest": "04-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "04-14", "latest": "07-13" },
+  "chicks_fledge": { "earliest": "04-28", "latest": "07-27" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på Sør-Norge generelt. Tre kull mulig, siste klekking og flyving kan derfor være i juli."
+}

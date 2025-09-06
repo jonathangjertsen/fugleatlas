@@ -1,0 +1,11 @@
+{
+  "norwegian": "Grankorsnebb",
+  "latin": "Loxia curvirostra",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "02-20", "latest": "03-10" },
+  "eggs_hatch": { "earliest": "03-10", "latest": "03-28" },
+  "chicks_fledge": { "earliest": "03-30", "latest": "04-20" },
+  "remarks": "Ingen eksakte trekkdatoer oppgitt. Hekking kan forekomme året rundt, men vanligst i slutten av februar og begynnelsen av mars i Oslo og omegn."
+}

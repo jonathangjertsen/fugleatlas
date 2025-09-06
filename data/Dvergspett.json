@@ -1,0 +1,20 @@
+{
+  "norwegian": "Dvergspett",
+  "latin": "Dendrocopos minor",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": {
+    "earliest": "05-15",
+    "latest": "06-15"
+  },
+  "eggs_hatch": {
+    "earliest": "05-25",
+    "latest": "06-27"
+  },
+  "chicks_fledge": {
+    "earliest": "06-12",
+    "latest": "07-18"
+  },
+  "remarks": "Ankomst og avreise ved trekk er ikke spesifisert for Oslo og omegn. Egglegging i lavlandet (som Oslo og omegn) starter i siste halvdel av mai, hekkingen varer ca. 30 dager. Beregnet klekketid og flyvedyktighet basert på ruging og ungfuglenes tid i reir."
+}

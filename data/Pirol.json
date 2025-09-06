@@ -1,0 +1,11 @@
+{
+  "norwegian": "Pirol",
+  "latin": "Oriolus oriolus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-30", "latest": "06-05" },
+  "departure": { "earliest": "08-01", "latest": "08-31" },
+  "eggs_laid": null,
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for egglegging, klekking og flyvedyktighet i Oslo og omegn. Hekkeforsøk i Norge er få og usikre, men ankomst og avreise er tolket for Sør-Norge."
+}

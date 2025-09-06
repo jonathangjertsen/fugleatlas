@@ -1,0 +1,11 @@
+{
+  "norwegian": "Svartbak",
+  "latin": "Larus marinus",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": { "earliest": "09-01", "latest": "11-30" },
+  "eggs_laid": { "earliest": "04-15", "latest": "05-15" },
+  "eggs_hatch": { "earliest": "05-15", "latest": "06-15" },
+  "chicks_fledge": { "earliest": "07-01", "latest": "07-31" },
+  "remarks": "Ingen spesifikke ankomsttider for Oslo og omegn oppgitt, ankomst antas å være før egglegging. Avreise skjer høsttrekk langs kysten, varierende lengde. Data for Oslo og omegn ikke eksplisitt, tolket fra generell norsk kystinformasjon."
+}

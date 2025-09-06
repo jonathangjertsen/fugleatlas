@@ -1,0 +1,11 @@
+{
+  "norwegian": "Gjerdesmett",
+  "latin": "Troglodytes troglodytes",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-01", "latest": "05-31" },
+  "departure": { "earliest": "09-01", "latest": "11-30" },
+  "eggs_laid": { "earliest": "05-15", "latest": "07-31" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Eggklekkings- og flyvedyktighetsdatoer er ikke spesifisert i teksten. Egglegging starter ofte midt i mai, og det kan være to kull."
+}

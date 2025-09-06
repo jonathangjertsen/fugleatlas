@@ -1,0 +1,11 @@
+{
+  "norwegian": "Stær",
+  "latin": "Sturnus vulgaris",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "02-01", "latest": "03-31" },
+  "departure": { "earliest": "06-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "04-20", "latest": "05-31" },
+  "eggs_hatch": { "earliest": "05-05", "latest": "06-15" },
+  "chicks_fledge": { "earliest": "05-25", "latest": "07-01" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på sørlige Norge; egglegging kan starte i slutten av april i sør, vanligvis i mai. Unger flyvedyktige ca. 2 uker etter klekking. Trekkstart for ungfugler i juni-juli, voksne i august-september."
+}

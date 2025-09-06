@@ -1,0 +1,11 @@
+{
+  "norwegian": "Lappspove",
+  "latin": "Limosa lapponica",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-10", "latest": "05-20" },
+  "departure": { "earliest": "07-31", "latest": "08-31" },
+  "eggs_laid": { "earliest": "06-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-22", "latest": "07-21" },
+  "chicks_fledge": null,
+  "remarks": "Hekkebiologi og tidspunkter er basert på observasjoner i Finnmark og Femundsmarka; ingen direkte data for Oslo og omegn, men arten hekker ikke utenfor Finnmark i Norge, så hekketidspunkt for Oslo og omegn er ikke relevant."
+}

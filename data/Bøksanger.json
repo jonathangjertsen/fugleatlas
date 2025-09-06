@@ -1,0 +1,11 @@
+{
+  "norwegian": "Bøksanger",
+  "latin": "Phylloscopus sibilatrix",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-01", "latest": "05-31" },
+  "departure": { "earliest": "07-15", "latest": "08-31" },
+  "eggs_laid": { "earliest": "05-15", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-01", "latest": "07-10" },
+  "chicks_fledge": { "earliest": "06-12", "latest": "07-20" },
+  "remarks": "Ankomst og egglegging er tolket for Oslo og omegn basert på Sør-Norge og Østlandet. Egglegging antatt å starte ca. 2 uker etter ankomst. Ungene forlater reiret etter 11-12 dager."
+}

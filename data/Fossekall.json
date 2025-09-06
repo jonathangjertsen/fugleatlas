@@ -1,0 +1,11 @@
+{
+  "norwegian": "Fossekall",
+  "latin": "Cinclus cinclus",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "03-01", "latest": "07-31" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for ankomst og avreise i Oslo og omegn. Egglegging starter tidligst i mars i kyststrøk (som Oslo-området), og kan vare til juli i høyere strøk. Klekkings- og flyvedyktighetsdatoer er ikke oppgitt."
+}

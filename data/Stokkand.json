@@ -1,0 +1,11 @@
+{
+  "norwegian": "Stokkand",
+  "latin": "Anas platyrhynchos",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "03-01", "latest": "06-30" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for ankomst, avreise, klekking eller flyvedyktighet i Oslo og omegn. Egglegging starter i mars, vanligst i april, og kan forekomme til juni. Stokkand er delvis standfugl i Norge, med trekk til kyst og byer vinterstid."
+}

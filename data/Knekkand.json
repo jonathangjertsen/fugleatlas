@@ -1,0 +1,11 @@
+{
+  "norwegian": "Knekkand",
+  "latin": "Anas querquedula",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-01", "latest": "05-31" },
+  "departure": { "earliest": "07-01", "latest": "08-31" },
+  "eggs_laid": { "earliest": "05-01", "latest": "06-30" },
+  "eggs_hatch": null,
+  "chicks_fledge": { "earliest": "06-05", "latest": "08-09" },
+  "remarks": "Eggklekkingsperiode er ikke spesifisert, men ungene blir flyvedyktige 35-40 dager etter klekking. Tidsangivelsene er tolket for Oslo og omegn basert på Sør-Norge generelt."
+}

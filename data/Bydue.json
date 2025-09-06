@@ -1,0 +1,11 @@
+{
+  "norwegian": "Bydue",
+  "latin": null,
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "02-01", "latest": "09-30" },
+  "eggs_hatch": { "earliest": "02-17", "latest": "10-16" },
+  "chicks_fledge": { "earliest": "03-24", "latest": "11-22" },
+  "remarks": "Latinsk navn ikke oppgitt i teksten. Bydua hekker flere kull fra februar til høst, og er overveiende stasjonær i Oslo og omegn."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Spettmeis",
+  "latin": "Sitta europaea",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-15", "latest": "04-30" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for klekking og flyvedyktighet. Spettmeisa er standfugl i Oslo og omegn, så ankomst og avreise ved trekk er ikke relevant."
+}

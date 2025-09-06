@@ -1,0 +1,11 @@
+{
+  "norwegian": "Teist",
+  "latin": "Cepphus grylle",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-01", "latest": "04-30" },
+  "departure": { "earliest": null, "latest": null },
+  "eggs_laid": { "earliest": null, "latest": null },
+  "eggs_hatch": { "earliest": null, "latest": null },
+  "chicks_fledge": { "earliest": null, "latest": null },
+  "remarks": "Ingen spesifikke datoer for egglegging, klekking og flyvedyktighet i Oslo og omegn. Rugetid ca. 29 dager, ungene flyvedyktige ca. 40 dager etter klekking. Ankomst til hekkeplassene i april. Ingen konkrete trekkavreisedatoer oppgitt."
+}

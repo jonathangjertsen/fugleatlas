@@ -1,0 +1,14 @@
+{
+  "norwegian": "Horndykker",
+  "latin": "Podiceps auritus",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": {
+    "earliest": "05-15",
+    "latest": "08-31"
+  },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for ankomst, avreise, klekking eller flyvedyktighet i Oslo og omegn. Egglegging starter vanligvis midt i mai, kan forsinkes til juli, og omlegging kan skje til slutten av august. Trekkforhold og klekkingstidspunkt er ikke spesifisert for Oslo og omegn."
+}

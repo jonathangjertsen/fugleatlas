@@ -1,0 +1,11 @@
+{
+  "norwegian": "Bergand",
+  "latin": "Aythya marila",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-25", "latest": "05-10" },
+  "departure": { "earliest": "09-20", "latest": "11-30" },
+  "eggs_laid": { "earliest": "05-20", "latest": "06-15" },
+  "eggs_hatch": { "earliest": "06-15", "latest": "07-13" },
+  "chicks_fledge": { "earliest": "07-25", "latest": "08-25" },
+  "remarks": "Tidsangivelser tolket for Sør-Norge/Oslo og omegn basert på beskrivelse av ankomst etter isgang i siste halvdel av mai og klekkingstid med rugetid 26-28 dager. Avreise fra slutten av september til november."
+}

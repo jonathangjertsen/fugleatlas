@@ -1,0 +1,11 @@
+{
+  "norwegian": "Svartand",
+  "latin": "Melanitta nigra",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-01", "latest": "05-31" },
+  "departure": { "earliest": "10-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "05-20", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-16", "latest": "07-31" },
+  "chicks_fledge": { "earliest": "07-27", "latest": "09-15" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på beskrivelse av hekkebiologi og trekk i Sør-Norge. Noe usikkerhet i eksakte datoer for ankomst og avreise."
+}

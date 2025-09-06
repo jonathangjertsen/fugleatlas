@@ -1,0 +1,11 @@
+{
+  "norwegian": "Toppskarv",
+  "latin": "Phalacrocorax aristotelis",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "05-10", "latest": "05-20" },
+  "eggs_hatch": { "earliest": "06-10", "latest": "06-20" },
+  "chicks_fledge": { "earliest": "07-01", "latest": "07-10" },
+  "remarks": "Ingen spesifikke trekkdatoer for Oslo og omegn; arten er fastboende i Norge og holder seg innenlands hele året. Hekkebiologi basert på midten av mai egglegging og ca. 30 dagers rugetid."
+}

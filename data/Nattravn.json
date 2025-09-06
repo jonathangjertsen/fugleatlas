@@ -1,0 +1,11 @@
+{
+  "norwegian": "Nattravn",
+  "latin": "Caprimulgus europaeus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-01", "latest": "06-30" },
+  "departure": { "earliest": "08-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "06-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-18", "latest": "07-18" },
+  "chicks_fledge": { "earliest": "07-04", "latest": "08-03" },
+  "remarks": "Tidsangivelsene er tolket for Oslo og omegn basert på juni som eggleggingstid og ruging/flyvingstid oppgitt i teksten."
+}

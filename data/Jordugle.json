@@ -1,0 +1,11 @@
+{
+  "norwegian": "Jordugle",
+  "latin": "Asio flammeus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "03-01", "latest": "06-30" },
+  "departure": { "earliest": "09-01", "latest": "12-31" },
+  "eggs_laid": { "earliest": "04-15", "latest": "06-15" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen hekkedata for Oslo og omegn, artikkelen sier at jordugla ikke hekker i Oslo og Akershus. Tidspunkter er tolket som generelle for Norge."
+}

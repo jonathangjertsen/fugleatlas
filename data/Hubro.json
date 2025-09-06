@@ -1,0 +1,11 @@
+{
+  "norwegian": "Hubro",
+  "latin": "Bubo bubo",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "03-15", "latest": "04-15" },
+  "eggs_hatch": { "earliest": "04-20", "latest": "05-20" },
+  "chicks_fledge": { "earliest": "06-20", "latest": "07-20" },
+  "remarks": "Ingen trekkperioder da hubro er standfugl i Oslo og omegn. Egglegging starter ofte i mars, men vanligst i første halvdel av april."
+}

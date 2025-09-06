@@ -1,0 +1,11 @@
+{
+  "norwegian": "Småspove",
+  "latin": "Numenius phaeopus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-01", "latest": "05-15" },
+  "departure": { "earliest": "07-15", "latest": "07-31" },
+  "eggs_laid": null,
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for egglegging, klekking eller flyvedyktighet i Oslo og omegn. Ankomst og avreise er tolket fra Sør-Norge generelt."
+}

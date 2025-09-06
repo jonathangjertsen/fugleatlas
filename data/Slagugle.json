@@ -1,0 +1,11 @@
+{
+  "norwegian": "Slagugle",
+  "latin": "Strix uralensis",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "03-25", "latest": "04-20" },
+  "eggs_hatch": { "earliest": "04-25", "latest": "05-22" },
+  "chicks_fledge": { "earliest": "05-20", "latest": "06-20" },
+  "remarks": "Data for hekkebiologi er hentet fra Hedmark, som er relevant for Oslo og omegn. Ingen trekkdata tilgjengelig, antatt stasjonær."
+}

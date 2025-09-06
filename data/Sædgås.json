@@ -1,0 +1,11 @@
+{
+  "norwegian": "Sædgås",
+  "latin": "Anser fabalis",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-15", "latest": "05-15" },
+  "departure": null,
+  "eggs_laid": null,
+  "eggs_hatch": null,
+  "chicks_fledge": { "earliest": "06-25", "latest": "07-15" },
+  "remarks": "Egglegging og klekkingstidspunkt er ikke spesifisert for Oslo og omegn, kun ankomst og ungene kan være flygedyktige etter 40 dager. Avreise ikke oppgitt."
+}

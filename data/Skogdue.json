@@ -1,0 +1,11 @@
+{
+  "norwegian": "Skogdue",
+  "latin": "Columba oenas",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "03-01", "latest": "03-31" },
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "03-30", "latest": "07-31" },
+  "eggs_hatch": { "earliest": "04-15", "latest": "08-15" },
+  "chicks_fledge": { "earliest": "05-01", "latest": "09-01" },
+  "remarks": "Egglegging starter tidligst 30. mars i Østfold (Oslo og omegn). Kan rekke 3 kull per sesong. Hekkingen kan starte sent pga konkurranse om reirhull."
+}

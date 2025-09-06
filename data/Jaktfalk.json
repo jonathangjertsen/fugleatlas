@@ -1,0 +1,11 @@
+{
+  "norwegian": "Jaktfalk",
+  "latin": "Falco rusticolus",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-01", "latest": "04-15" },
+  "eggs_hatch": { "earliest": "05-10", "latest": "05-20" },
+  "chicks_fledge": { "earliest": "06-30", "latest": "07-15" },
+  "remarks": "Ingen spesifikke trekkdatoer for Oslo og omegn; antatt standfugl med få individer som forlater landet. Hekkebiologi basert på generelle norske forhold, tolket for fjellområder som kan sammenlignes med Oslo og omegn."
+}

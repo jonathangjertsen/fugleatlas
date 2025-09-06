@@ -1,0 +1,11 @@
+{
+  "norwegian": "Vintererle",
+  "latin": "Motacilla cinerea",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-01", "latest": "04-30" },
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "04-20", "latest": "05-15" },
+  "eggs_hatch": { "earliest": "05-01", "latest": "05-30" },
+  "chicks_fledge": { "earliest": "05-20", "latest": "06-20" },
+  "remarks": "Tidsangivelser tolket for Oslo og omegn basert på generell norsk hekkebiologi. Noe usikkerhet i eksakt dato for ankomst og avreise."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Heipiplerke",
+  "latin": "Anthus pratensis",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-01", "latest": "05-10" },
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "05-25", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-05", "latest": "07-15" },
+  "chicks_fledge": { "earliest": "06-20", "latest": "07-31" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på kystnære forhold i Sør-Norge. Mulighet for to kull langs kysten, men ikke bekreftet."
+}

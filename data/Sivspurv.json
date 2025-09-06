@@ -1,0 +1,11 @@
+{
+  "norwegian": "Sivspurv",
+  "latin": "Emberiza schoeniclus",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-25", "latest": "05-15" },
+  "departure": { "earliest": "08-15", "latest": "10-15" },
+  "eggs_laid": { "earliest": "05-01", "latest": "05-31" },
+  "eggs_hatch": { "earliest": "05-12", "latest": "06-14" },
+  "chicks_fledge": { "earliest": "05-21", "latest": "06-28" },
+  "remarks": "Datoer tolket for lavlandet i Sør-Norge/Oslo og omegn. Egglegging i mai, ruging 11-14 dager, reirperiode 9-14 dager."
+}

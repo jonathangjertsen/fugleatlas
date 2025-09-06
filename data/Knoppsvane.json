@@ -1,0 +1,11 @@
+{
+  "norwegian": "Knoppsvane",
+  "latin": "Cygnus olor",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-25", "latest": "05-10" },
+  "eggs_hatch": { "earliest": "05-30", "latest": "06-14" },
+  "chicks_fledge": { "earliest": "09-01", "latest": "09-30" },
+  "remarks": "Ankomst og avreise ved trekk er ikke spesifisert for Oslo og omegn. Egglegging og klekking er tolket ut fra beskrivelse av hekkestart i april og rugetid på ca. 35 dager. Flyvedyktighet er 120-150 dager etter klekking."
+}

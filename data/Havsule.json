@@ -1,0 +1,11 @@
+{
+  "norwegian": "Havsule",
+  "latin": "Sula bassana",
+  "migratoriness": "migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "03-25", "latest": "04-15" },
+  "eggs_hatch": { "earliest": "05-08", "latest": "05-29" },
+  "chicks_fledge": { "earliest": "07-07", "latest": "09-30" },
+  "remarks": "Ingen spesifikke datoer for ankomst og avreise i Oslo og omegn; egglegging og klekking er tolket fra nasjonale data. Hekkedata gjelder generelt for Norge, men Oslo og omegn har ikke kolonier."
+}

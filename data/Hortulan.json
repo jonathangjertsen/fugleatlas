@@ -1,0 +1,11 @@
+{
+  "norwegian": "Hortulan",
+  "latin": "Emberiza hortulana",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-01", "latest": "05-10" },
+  "departure": null,
+  "eggs_laid": { "earliest": "05-01", "latest": "06-10" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Avreise, klekking og flyvedyktighet er ikke spesifisert for Oslo og omegn. Avreise og klekking er derfor satt til null."
+}

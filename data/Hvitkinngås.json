@@ -1,0 +1,11 @@
+{
+  "norwegian": "Hvitkinngås",
+  "latin": "Branta leucopsis",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-01", "latest": "05-15" },
+  "departure": { "earliest": "11-01", "latest": "11-15" },
+  "eggs_laid": { "earliest": "05-15", "latest": "06-15" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Eggklekkings- og flyvedyktighetsdatoer er ikke spesifisert i teksten. Ankomst og avreise er tolket ut fra trekk- og myteperioder i Oslo og omegn."
+}

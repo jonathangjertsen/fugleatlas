@@ -1,0 +1,11 @@
+{
+  "norwegian": "Svartmeis",
+  "latin": "Parus ater",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-10", "latest": "04-30" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for klekking og flyvedyktighet. Ankomst og avreise ved trekk ikke angitt for Oslo og omegn. Egglegging starter i midten/slutten av april i sørlige deler, tolket som Oslo og omegn."
+}

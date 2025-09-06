@@ -1,0 +1,11 @@
+{
+  "norwegian": "Lunde",
+  "latin": "Fratercula arctica",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-01", "latest": "03-31" },
+  "departure": null,
+  "eggs_laid": { "earliest": "04-20", "latest": "04-30" },
+  "eggs_hatch": { "earliest": "06-01", "latest": "06-14" },
+  "chicks_fledge": { "earliest": "07-10", "latest": "08-10" },
+  "remarks": "Avreise fra Norge ved trekk er ikke spesifisert i teksten. Datoer for egglegging er tolket fra Sør-Norge, som inkluderer Oslo og omegn."
+}

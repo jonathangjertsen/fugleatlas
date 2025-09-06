@@ -1,0 +1,11 @@
+{
+  "norwegian": "Gråhegre",
+  "latin": "Ardea cinerea",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-01", "latest": "03-31" },
+  "departure": { "earliest": "08-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "03-01", "latest": "05-31" },
+  "eggs_hatch": { "earliest": "03-26", "latest": "06-25" },
+  "chicks_fledge": { "earliest": "05-15", "latest": "07-31" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på generell norsk hekkebiologi og trekkforhold. Avreise tidlig høst, ankomst tidlig vår."
+}

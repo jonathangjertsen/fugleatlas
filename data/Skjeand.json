@@ -1,0 +1,11 @@
+{
+  "norwegian": "Skjeand",
+  "latin": "Anas clypeata",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "03-01", "latest": "05-01" },
+  "departure": { "earliest": "07-01", "latest": "08-31" },
+  "eggs_laid": { "earliest": "05-01", "latest": "05-31" },
+  "eggs_hatch": { "earliest": "05-23", "latest": "06-23" },
+  "chicks_fledge": { "earliest": "06-30", "latest": "07-15" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på sørlige deler av Norge. Høsttrekk er usikkert, men antatt juli-august."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Båndkorsnebb",
+  "latin": "Loxia leucoptera",
+  "migratoriness": "migrant",
+  "arrival": null,
+  "departure": { "earliest": "06-01", "latest": "06-15" },
+  "eggs_laid": { "earliest": "04-08", "latest": "05-15" },
+  "eggs_hatch": { "earliest": "05-01", "latest": "05-15" },
+  "chicks_fledge": { "earliest": "05-15", "latest": "05-23" },
+  "remarks": "Hekkeforsøk i Norge er få og sporadiske, med reirbygging observert tidlig april i Bergen og unger i midten av mai i Namsskogan. Ingen faste trekkdatoer for Oslo og omegn, men fuglene når Oslofjorden i oktober under invasjoner. Ankomst og avreise for Oslo og omegn er ikke spesifisert, avreise tidlig juni basert på Namsskogan-observasjon."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Dvergfluesnapper",
+  "latin": "Ficedula parva",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-01", "latest": "05-31" },
+  "departure": { "earliest": "08-01", "latest": "10-31" },
+  "eggs_laid": null,
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for egglegging, klekking og flyvedyktighet i Oslo og omegn; hekkefunn er få og spredte, men hekkebiologien er kjent generelt."
+}

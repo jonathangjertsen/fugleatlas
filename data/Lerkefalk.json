@@ -1,0 +1,11 @@
+{
+  "norwegian": "Lerkefalk",
+  "latin": "Falco subbuteo",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-01", "latest": "05-31" },
+  "departure": { "earliest": "09-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-25", "latest": "06-10" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Eggklekkings- og flyvedyktighetsdatoer er ikke spesifisert i teksten. Egglegging er tolket fra ruging som startet 5. juni."
+}

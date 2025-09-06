@@ -1,0 +1,11 @@
+{
+  "norwegian": "Laksand",
+  "latin": "Mergus merganser",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "05-01", "latest": "05-15" },
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "05-01", "latest": "05-15" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Eggklekkings- og flyvedyktighetsdatoer er ikke spesifisert for Oslo og omegn, kun for Sør-Norge generelt og Finnmark."
+}

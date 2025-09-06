@@ -6,13 +6,16 @@ Dette repoet inneholder skript for å laste ned PDFer fra https://www.birdlife.n
 2. `ocr.py` konverterer PDF-filene til tekstformat
 3. `clean.py` renser opp tekstfilene
 4. `llm.py` utfører analyse med en språkmodell
+5. dataene er sjekket inn og korrigert manuelt.
 
 ```mermaid
 flowchart TD
     sourcedata -->|download.py| pdfs
     pdfs -->|ocr.py| raw_ocrs
     raw_ocrs -->|clean.py| cleaned
-    cleaned -->|llm.py| raw_llm
+    cleaned -->|llm.py| data_llm
+    data_llm -->|cp -r data_llm data| data
+    data -->|manuell redigering| data
 ```
 
 ## Detaljer om skriptene

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Gluttsnipe",
+  "latin": "Tringa nebularia",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-01", "latest": "05-31" },
+  "departure": { "earliest": "07-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-20", "latest": "06-10" },
+  "eggs_hatch": { "earliest": "06-12", "latest": "06-20" },
+  "chicks_fledge": { "earliest": "07-07", "latest": "07-31" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på Sør-Norge og hekketid i april/mai, egglegging i slutten av mai/begynnelsen av juni, ruging 23-26 dager og ungene flyr etter 25-31 dager."
+}

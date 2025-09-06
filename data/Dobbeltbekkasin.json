@@ -1,0 +1,11 @@
+{
+  "norwegian": "Dobbeltbekkasin",
+  "latin": "Gallinago media",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-10", "latest": "05-15" },
+  "departure": null,
+  "eggs_laid": null,
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen konkrete datoer for egglegging, klekking eller ungfuglenes flyvedyktighet i Oslo og omegn. Avreise ikke spesifisert. Data gjelder hovedsakelig Midt-Norge og fjellområder, Oslo og omegn ikke direkte omtalt."
+}

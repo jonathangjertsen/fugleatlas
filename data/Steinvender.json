@@ -1,0 +1,23 @@
+{
+  "norwegian": "Steinvender",
+  "latin": "Arenaria interpres",
+  "migratoriness": "migrant",
+  "arrival": null,
+  "departure": {
+    "earliest": "06-01",
+    "latest": "09-30"
+  },
+  "eggs_laid": {
+    "earliest": "05-20",
+    "latest": "06-30"
+  },
+  "eggs_hatch": {
+    "earliest": "06-13",
+    "latest": "07-24"
+  },
+  "chicks_fledge": {
+    "earliest": "06-14",
+    "latest": "07-25"
+  },
+  "remarks": "Ingen spesifikke ankomsttider for Oslo og omegn oppgitt, ankomst er derfor ukjent. Datoer tolket fra hekkebiologi og trekkforhold for Norge generelt."
+}

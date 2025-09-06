@@ -1,0 +1,11 @@
+{
+  "norwegian": "Fiskemåke",
+  "latin": "Larus canus",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-01", "latest": "04-15" },
+  "departure": { "earliest": "08-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-01", "latest": "05-31" },
+  "eggs_hatch": { "earliest": "05-24", "latest": "06-28" },
+  "chicks_fledge": { "earliest": "06-21", "latest": "07-31" },
+  "remarks": "Datoer for egglegging og klekking er tolket fra Sør-Norge, som inkluderer Oslo og omegn. Ankomsttider er basert på hovedtyngden av vårtrekk i mars og april. Avreise er i august-september."
+}

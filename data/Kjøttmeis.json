@@ -1,0 +1,23 @@
+{
+  "norwegian": "Kjøttmeis",
+  "latin": "Parus major",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": {
+    "earliest": "09-01",
+    "latest": "10-31"
+  },
+  "eggs_laid": {
+    "earliest": "04-15",
+    "latest": "06-15"
+  },
+  "eggs_hatch": {
+    "earliest": "05-01",
+    "latest": "06-30"
+  },
+  "chicks_fledge": {
+    "earliest": "05-20",
+    "latest": "07-15"
+  },
+  "remarks": "Ankomsttidspunkt for trekk er ikke spesifisert for Oslo og omegn, kun avreise. Egglegging starter midten/slutten av april i sørlige områder som Oslo og omegn. Flere kull mulig, derfor bredt intervall."
+}

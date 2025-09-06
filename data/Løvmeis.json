@@ -1,0 +1,11 @@
+{
+  "norwegian": "Løvmeis",
+  "latin": "Parus palustris",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-20", "latest": "05-01" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen eksakte datoer for klekking og flyvedyktighet. Ingen trekkdatoer da arten er standfugl. Egglegging avsluttes i månedsskiftet april/mai i tidlige områder, tolket til Oslo og omegn."
+}

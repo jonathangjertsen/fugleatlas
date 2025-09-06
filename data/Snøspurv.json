@@ -1,0 +1,11 @@
+{
+  "norwegian": "Snøspurv",
+  "latin": "Plectrophenax nivalis",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-01", "latest": "04-15" },
+  "departure": { "earliest": "09-01", "latest": "11-30" },
+  "eggs_laid": { "earliest": "06-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-13", "latest": "07-13" },
+  "chicks_fledge": { "earliest": "06-23", "latest": "07-25" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på beskrivelse av hekkebiologi og trekkforhold i Sør-Norge."
+}

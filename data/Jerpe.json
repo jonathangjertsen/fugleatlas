@@ -1,0 +1,11 @@
+{
+  "norwegian": "Jerpe",
+  "latin": "Bonasa bonasia",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-25", "latest": "05-10" },
+  "eggs_hatch": { "earliest": "05-20", "latest": "06-05" },
+  "chicks_fledge": null,
+  "remarks": "Jerpa er en standfugl i Oslo og omegn, trekk er ikke dokumentert. Tidspunkt for egglegging og klekking er tolket fra månedsskiftet april-mai og klekketid ca. 25 dager etter egglegging. Tidspunkt for flyvedyktighet av unger er ikke oppgitt."
+}

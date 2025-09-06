@@ -1,0 +1,11 @@
+{
+  "norwegian": "Vepsevåk",
+  "latin": "Pernis apivorus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-01", "latest": "05-15" },
+  "departure": { "earliest": "08-25", "latest": "09-15" },
+  "eggs_laid": { "earliest": "06-01", "latest": "06-15" },
+  "eggs_hatch": { "earliest": "07-01", "latest": "07-20" },
+  "chicks_fledge": { "earliest": "08-10", "latest": "08-30" },
+  "remarks": "Ankomst i andre halvdel av mai tolket til 01.04-15.05 for Oslo og omegn. Avreise ultimo august, ungfugler ca. 14 dager senere. Egglegging primo/medio juni. Ruging 30-35 dager, ungfugler flyvedyktige etter 40-44 dager."
+}

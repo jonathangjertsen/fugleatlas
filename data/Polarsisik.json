@@ -1,0 +1,11 @@
+{
+  "norwegian": "Polarsisik",
+  "latin": "Carduelis hornemanni",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "05-01", "latest": "07-31" },
+  "eggs_hatch": { "earliest": "05-12", "latest": "08-11" },
+  "chicks_fledge": null,
+  "remarks": "Ankomst og avreise ved trekk er ikke spesifisert for Oslo og omegn. Egglegging kan starte i mai ved gunstige forhold, ellers vanligvis juni-juli. Rugetid er 11 dager, klekking er derfor beregnet ut fra egglegging. Ingen data om tidspunkt for ungene blir flyvedyktige."
+}

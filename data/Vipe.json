@@ -1,0 +1,11 @@
+{
+  "norwegian": "Vipe",
+  "latin": "Vanellus vanellus",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "02-01", "latest": "02-28" },
+  "departure": { "earliest": "07-01", "latest": "11-30" },
+  "eggs_laid": { "earliest": "04-01", "latest": "05-15" },
+  "eggs_hatch": { "earliest": "04-26", "latest": "06-14" },
+  "chicks_fledge": { "earliest": "05-31", "latest": "07-19" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på sørlige deler av landet; egglegging starter i april, ruging 25-30 dager, ungene flygedyktige ca. 5 uker etter klekking."
+}

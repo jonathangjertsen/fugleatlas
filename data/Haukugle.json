@@ -1,0 +1,11 @@
+{
+  "norwegian": "Haukugle",
+  "latin": "Surnia ulula",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "03-01", "latest": "05-15" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for ankomst, avreise, klekking eller flyvedyktighet i Oslo og omegn. Haukugla er en nomade med hekketid avhengig av smågnagerår, og forekomst i Sør-Norge er økende. Egglegging fra tidlig mars til midten av mai."
+}

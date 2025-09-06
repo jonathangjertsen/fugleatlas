@@ -1,0 +1,11 @@
+{
+  "norwegian": "Svartstrupe",
+  "latin": "Saxicola torquata",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-01", "latest": "05-31" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for klekking og flyvedyktighet i Oslo og omegn. Arten hekker kun på Vestlandet, ikke i Oslo og omegn. Ankomst og avreise ved trekk ikke relevant da arten er standfugl."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Rugde",
+  "latin": "Scolopax rusticola",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-01", "latest": "04-30" },
+  "departure": { "earliest": "10-01", "latest": "12-31" },
+  "eggs_laid": { "earliest": "04-20", "latest": "07-05" },
+  "eggs_hatch": { "earliest": "05-12", "latest": "07-27" },
+  "chicks_fledge": { "earliest": "05-27", "latest": "08-16" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på Sør-Norge; egglegging starter i slutten av april, klekking ca. 22 dager etter, ungene flyvedyktige 15-20 dager etter klekking."
+}

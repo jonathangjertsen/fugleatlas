@@ -1,0 +1,11 @@
+{
+  "norwegian": "Vendehals",
+  "latin": "Jynx torquilla",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-20", "latest": "05-10" },
+  "departure": { "earliest": "08-15", "latest": "09-10" },
+  "eggs_laid": { "earliest": "05-15", "latest": "05-31" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Eggklekkings- og flyvedyktighetsdatoer er ikke oppgitt i teksten."
+}

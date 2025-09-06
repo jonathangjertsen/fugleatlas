@@ -1,0 +1,11 @@
+{
+  "norwegian": "Gjøk",
+  "latin": "Cuculus canorus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-01", "latest": "05-10" },
+  "departure": { "earliest": "07-25", "latest": "08-10" },
+  "eggs_laid": null,
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen konkrete datoer for egglegging, klekking og flyvedyktighet i Oslo og omegn. Egglegging skjer i vertsfuglenes leggeperiode, klekking etter 10-12 dager, reirtid ca. 3 uker."
+}

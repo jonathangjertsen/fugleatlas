@@ -1,0 +1,11 @@
+{
+  "norwegian": "Krikkand",
+  "latin": "Anas crecca",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-01", "latest": "04-30" },
+  "departure": null,
+  "eggs_laid": null,
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Artikkelen oppgir ankomst i april, men gir ikke eksakte datoer for egglegging, klekking eller flyvedyktighet. Avreise ved trekk er ikke spesifisert. Data er tolket for Oslo og omegn som lavereliggende Sør-Norge."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Tyrkerdue",
+  "latin": "Streptopelia decaocto",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-01", "latest": "07-31" },
+  "eggs_hatch": { "earliest": "04-15", "latest": "08-15" },
+  "chicks_fledge": { "earliest": "05-02", "latest": "09-01" },
+  "remarks": "Tyrkerdua er overveiende standfugl i Norge, spesielt i Oslo og omegn. Ankomst og avreise ved trekk er derfor ikke relevant. Egglegging skjer april til juli, med 1-2 kull vanlig, opptil 3, og rugetid 14-18 dager, ungene flyr ut etter 17 dager."
+}

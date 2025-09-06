@@ -1,0 +1,11 @@
+{
+  "norwegian": "Sildemåke",
+  "latin": "Larus fuscus",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-01", "latest": "05-31" },
+  "departure": { "earliest": null, "latest": null },
+  "eggs_laid": { "earliest": "05-15", "latest": "06-15" },
+  "eggs_hatch": { "earliest": "06-10", "latest": "07-12" },
+  "chicks_fledge": { "earliest": "07-15", "latest": "08-20" },
+  "remarks": "Avrundet ankomst og egglegging for Sør-Norge (Oslo og omegn) basert på sørnorske populasjoner. Avreise ikke spesifisert i teksten."
+}

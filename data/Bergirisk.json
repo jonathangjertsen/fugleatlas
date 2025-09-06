@@ -1,0 +1,11 @@
+{
+  "norwegian": "Bergirisk",
+  "latin": "Carduelis flavirostris",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-01", "latest": "04-30" },
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "05-01", "latest": "07-31" },
+  "eggs_hatch": { "earliest": "05-10", "latest": "08-10" },
+  "chicks_fledge": { "earliest": "05-20", "latest": "08-20" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på sørlige områder i Norge. Eggklekking og flyvedyktighet estimert ut fra 9-12 dagers rugetid og vanlig tid for flyving etter klekking."
+}

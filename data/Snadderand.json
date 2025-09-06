@@ -1,0 +1,11 @@
+{
+  "norwegian": "Snadderand",
+  "latin": "Anas strepera",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-01", "latest": "05-31" },
+  "departure": { "earliest": "07-01", "latest": "08-31" },
+  "eggs_laid": { "earliest": "05-01", "latest": "05-31" },
+  "eggs_hatch": { "earliest": "05-25", "latest": "06-25" },
+  "chicks_fledge": { "earliest": "07-10", "latest": "08-20" },
+  "remarks": "Datoer tolket for Oslofjord-området som del av Sør-Norge. Egglegging i Sør-Norge i mai, ruging 24-26 dager, ungene flyvedyktige 45-50 dager etter klekking."
+}

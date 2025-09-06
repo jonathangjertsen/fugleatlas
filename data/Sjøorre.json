@@ -1,0 +1,11 @@
+{
+  "norwegian": "Sjøorre",
+  "latin": "Melanitta fusca",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-01", "latest": "06-10" },
+  "departure": { "earliest": "09-01", "latest": "11-30" },
+  "eggs_laid": { "earliest": "05-25", "latest": "07-10" },
+  "eggs_hatch": { "earliest": "06-21", "latest": "08-07" },
+  "chicks_fledge": null,
+  "remarks": "Datoer for ankomst og avreise er tolket fra trekkobservasjoner i Sør-Norge og Oslo-området. Dato for ungene flyvedyktige er ikke spesifisert i teksten."
+}

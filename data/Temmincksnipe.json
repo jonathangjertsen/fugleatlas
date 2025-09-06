@@ -1,0 +1,11 @@
+{
+  "norwegian": "Temmincksnipe",
+  "latin": "Calidris temminckii",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-15", "latest": "05-31" },
+  "departure": { "earliest": "07-01", "latest": "08-15" },
+  "eggs_laid": { "earliest": "05-25", "latest": "06-15" },
+  "eggs_hatch": { "earliest": "06-10", "latest": "07-05" },
+  "chicks_fledge": { "earliest": "07-01", "latest": "08-15" },
+  "remarks": "Tidsangivelsene er tolket for Oslo og omegn basert på beskrivelse av hekkestart i slutten av mai og første halvdel av juni, og avreise i juli til midten av august. Egglegging og klekking er estimert ut fra hekkestart og ungfuglenes alder ved avreise."
+}

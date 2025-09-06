@@ -1,0 +1,11 @@
+{
+  "norwegian": "Ærfugl",
+  "latin": "Somateria mollissima",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "05-01", "latest": "05-31" },
+  "eggs_hatch": { "earliest": "05-29", "latest": "06-28" },
+  "chicks_fledge": null,
+  "remarks": "Ankomst og avreise ved trekk er ikke spesifisert for Oslo og omegn. Klekkingstidspunkt er estimert ut fra rugetid på 4 uker etter egglegging. Tidspunkt for ungene blir flyvedyktige er ikke oppgitt."
+}

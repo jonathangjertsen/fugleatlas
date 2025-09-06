@@ -1,0 +1,11 @@
+{
+  "norwegian": "Taksvale",
+  "latin": "Delichon urbica",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-01", "latest": "05-10" },
+  "departure": { "earliest": "08-25", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-25", "latest": "07-15" },
+  "eggs_hatch": { "earliest": "06-10", "latest": "07-30" },
+  "chicks_fledge": { "earliest": "07-05", "latest": "08-31" },
+  "remarks": "Tidsangivelsene er tolket for Oslo og omegn basert på beskrivelsen av hekkestart i slutten av mai og at ungene i andre kull forlater reiret i løpet av august."
+}

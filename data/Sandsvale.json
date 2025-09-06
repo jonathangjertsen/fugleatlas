@@ -1,0 +1,11 @@
+{
+  "norwegian": "Sandsvale",
+  "latin": "Riparia riparia",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-20", "latest": "05-31" },
+  "departure": { "earliest": "08-25", "latest": "09-15" },
+  "eggs_laid": { "earliest": "06-01", "latest": "06-15" },
+  "eggs_hatch": { "earliest": "06-15", "latest": "06-30" },
+  "chicks_fledge": { "earliest": "07-07", "latest": "07-30" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på beskrivelse av ankomst i slutten av april og egglegging i første dager av juni. Avreise i første halvdel av september."
+}

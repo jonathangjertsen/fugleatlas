@@ -1,0 +1,11 @@
+{
+  "norwegian": "Tornskate",
+  "latin": "Lanius collurio",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-01", "latest": "05-31" },
+  "departure": { "earliest": "08-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "05-15", "latest": "07-15" },
+  "chicks_fledge": { "earliest": "05-29", "latest": "07-29" },
+  "remarks": "Tidsangivelsene for hekkebiologi er tolket ut fra egglegging i mai-juni, rugetid 14-15 dager og ungene forlater reiret etter ca. 2 uker."
+}

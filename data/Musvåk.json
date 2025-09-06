@@ -1,0 +1,11 @@
+{
+  "norwegian": "Musvåk",
+  "latin": "Buteo buteo",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-01", "latest": "03-31" },
+  "departure": null,
+  "eggs_laid": { "earliest": "04-10", "latest": "04-20" },
+  "eggs_hatch": { "earliest": "05-13", "latest": "05-25" },
+  "chicks_fledge": { "earliest": "06-24", "latest": "07-13" },
+  "remarks": "Avreise ikke spesifisert for Oslo og omegn, antatt ukjent. Ankomst basert på 'vender tilbake til hekkeplassene i mars'."
+}

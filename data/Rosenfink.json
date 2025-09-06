@@ -1,0 +1,11 @@
+{
+  "norwegian": "Rosenfink",
+  "latin": "Carpodacus erythrinus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-10", "latest": "05-20" },
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "05-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "05-13", "latest": "07-12" },
+  "chicks_fledge": { "earliest": "05-24", "latest": "07-27" },
+  "remarks": "Tidsangivelsene er tolket for Oslo og omegn basert på beskrivelse av hekkebiologi og trekkforhold i Norge."
+}

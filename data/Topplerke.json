@@ -1,0 +1,11 @@
+{
+  "norwegian": "Topplerke",
+  "latin": "Galerida cristata",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "05-01", "latest": "05-31" },
+  "eggs_hatch": { "earliest": "05-13", "latest": "06-13" },
+  "chicks_fledge": { "earliest": "05-21", "latest": "06-24" },
+  "remarks": "Arten hekker ikke lenger i Oslo og omegn, men tidligere hekkedata er brukt. Ankomst og avreise ved trekk er ikke relevant da arten er hovedsakelig standfugl."
+}

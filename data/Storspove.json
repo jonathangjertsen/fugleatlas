@@ -1,0 +1,11 @@
+{
+  "norwegian": "Storspove",
+  "latin": "Numenius arquata",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "03-01", "latest": "04-30" },
+  "departure": { "earliest": null, "latest": null },
+  "eggs_laid": { "earliest": null, "latest": null },
+  "eggs_hatch": { "earliest": null, "latest": null },
+  "chicks_fledge": { "earliest": null, "latest": null },
+  "remarks": "Ingen spesifikke datoer for egglegging, klekking og flyvedyktighet i Oslo og omegn. Ankomst til hekkeplassene i sørlige Norge er i mars/april. Avreise ikke spesifisert."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Spurvehauk",
+  "latin": "Accipiter nisus",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-01", "latest": "04-30" },
+  "departure": { "earliest": "08-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "05-01", "latest": "05-31" },
+  "eggs_hatch": { "earliest": "06-10", "latest": "07-10" },
+  "chicks_fledge": { "earliest": "07-05", "latest": "08-10" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på generell norsk hekkebiologi og trekkforhold."
+}

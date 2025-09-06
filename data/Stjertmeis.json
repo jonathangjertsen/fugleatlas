@@ -1,0 +1,11 @@
+{
+  "norwegian": "Stjertmeis",
+  "latin": "Aegithalos caudatus",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-01", "latest": "04-30" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for klekking og flyvedyktighet. Ankomst og avreise ikke relevant da arten er standfugl i Oslo og omegn."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Dompap",
+  "latin": "Pyrrhula pyrrhula",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": { "earliest": "10-15", "latest": "11-30" },
+  "eggs_laid": { "earliest": "04-25", "latest": "06-05" },
+  "eggs_hatch": { "earliest": "05-08", "latest": "06-18" },
+  "chicks_fledge": { "earliest": "05-24", "latest": "07-05" },
+  "remarks": "Ankomsttidspunkt for trekk er ikke spesifisert for Oslo og omegn, kun avreise på senhøsten. Eggleggingstidspunkt tolket som slutten av april til begynnelsen av juni i Norge generelt."
+}

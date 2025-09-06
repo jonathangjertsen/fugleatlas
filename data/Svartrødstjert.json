@@ -1,0 +1,11 @@
+{
+  "norwegian": "Svartrødstjert",
+  "latin": "Phoenicurus ochruros",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-20", "latest": "04-10" },
+  "departure": { "earliest": "09-01", "latest": "11-30" },
+  "eggs_laid": { "earliest": "05-20", "latest": "06-10" },
+  "eggs_hatch": { "earliest": "06-02", "latest": "06-27" },
+  "chicks_fledge": { "earliest": "06-14", "latest": "07-20" },
+  "remarks": "Tidsangivelser er tolket for Oslo og omegn basert på beskrivelse av ankomst, egglegging og rugetid. To kull forekommer, men datoer er for første kull."
+}

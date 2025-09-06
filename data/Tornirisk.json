@@ -1,0 +1,11 @@
+{
+  "norwegian": "Tornirisk",
+  "latin": "Carduelis cannabina",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-25", "latest": "04-30" },
+  "departure": { "earliest": "09-01", "latest": "11-05" },
+  "eggs_laid": { "earliest": "04-01", "latest": "08-31" },
+  "eggs_hatch": { "earliest": "04-12", "latest": "09-12" },
+  "chicks_fledge": { "earliest": "04-23", "latest": "09-23" },
+  "remarks": "Hekkesesongen er lang med flere kull, ofte to, sjelden tre. Datoer tolket for Oslo og omegn basert på Østlandet."
+}

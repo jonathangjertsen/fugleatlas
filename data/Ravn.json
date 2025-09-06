@@ -1,0 +1,11 @@
+{
+  "norwegian": "Ravn",
+  "latin": "Corvus corax",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "02-01", "latest": "04-30" },
+  "eggs_hatch": { "earliest": "02-19", "latest": "05-18" },
+  "chicks_fledge": { "earliest": "04-01", "latest": "06-20" },
+  "remarks": "Ingen trekk i Oslo og omegn, hekkestart tidlig februar til april, klekking 18-19 dager etter egglegging, ungene flyr etter ca. 5 uker."
+}

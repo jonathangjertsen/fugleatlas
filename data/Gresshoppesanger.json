@@ -1,0 +1,11 @@
+{
+  "norwegian": "Gresshoppesanger",
+  "latin": "Locustella naevia",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-25", "latest": "05-15" },
+  "departure": { "earliest": "08-01", "latest": "10-10" },
+  "eggs_laid": { "earliest": "05-01", "latest": "07-01" },
+  "eggs_hatch": { "earliest": "05-13", "latest": "07-16" },
+  "chicks_fledge": { "earliest": "05-25", "latest": "07-28" },
+  "remarks": "Hekkeperioden i Oslo og omegn tolkes som mai til begynnelsen av august. To kull er normalt, med 12-15 dager klekketid og ca. 12 dager til ungene forlater reiret. Tidligere ankomst og avreise er basert på Jæren-data, antatt likt for Oslo og omegn. Sene individer i oktober kan være fra andre populasjoner."
+}

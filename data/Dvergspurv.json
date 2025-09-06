@@ -1,0 +1,11 @@
+{
+  "norwegian": "Dvergspurv",
+  "latin": "Emberiza pusilla",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "06-01", "latest": "06-10" },
+  "departure": { "earliest": "08-01", "latest": "08-31" },
+  "eggs_laid": { "earliest": "06-25", "latest": "06-30" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Data gjelder kun for Finnmark, ingen hekkedata for Oslo og omegn. Ingen eksakte datoer for klekking og flyvedyktighet."
+}

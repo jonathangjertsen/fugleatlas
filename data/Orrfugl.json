@@ -1,0 +1,11 @@
+{
+  "norwegian": "Orrfugl",
+  "latin": "Tetrao tetrix",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "05-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "05-26", "latest": "07-27" },
+  "chicks_fledge": { "earliest": "05-15", "latest": "09-30" },
+  "remarks": "Ingen trekkperioder oppgitt, orrfugl er stedegen i Oslo og omegn. Egglegging i mai-juni, ruging 25-27 dager. Kyllinger flyger etter ca. 2 uker, uavhengige etter 3 måneder."
+}

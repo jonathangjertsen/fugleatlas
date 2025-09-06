@@ -1,0 +1,11 @@
+{
+  "norwegian": "Alke",
+  "latin": "Alca torda",
+  "migratoriness": "migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "05-15", "latest": "06-10" },
+  "eggs_hatch": { "earliest": "06-20", "latest": "07-15" },
+  "chicks_fledge": { "earliest": "07-10", "latest": "07-31" },
+  "remarks": "Ingen spesifikke datoer for ankomst og avreise i Oslo og omegn; hekkedata er generelle for Norge, men alke hekker hovedsakelig nord for polarsirkelen og er sjelden i Oslo-området."
+}

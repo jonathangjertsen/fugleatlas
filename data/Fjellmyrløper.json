@@ -1,0 +1,11 @@
+{
+  "norwegian": "Fjellmyrløper",
+  "latin": "Limicola falcinellus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-15", "latest": "05-31" },
+  "departure": { "earliest": "07-31", "latest": "09-30" },
+  "eggs_laid": null,
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for egglegging, klekking eller flyvedyktighet i Oslo og omegn. Ankomst og avreise er tolket fra Sør-Norge generelt."
+}

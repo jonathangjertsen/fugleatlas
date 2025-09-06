@@ -1,0 +1,11 @@
+{
+  "norwegian": "Snøugle",
+  "latin": "Nyctea scandiaca",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "05-20", "latest": "06-10" },
+  "eggs_hatch": { "earliest": "06-25", "latest": "07-15" },
+  "chicks_fledge": { "earliest": "07-30", "latest": "08-05" },
+  "remarks": "Ingen spesifikke trekkdatoer for Oslo og omegn; hekkedata tolket fra Sør-Norge fjellområder. Ankomst og avreise ukjent."
+}

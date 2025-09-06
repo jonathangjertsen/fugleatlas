@@ -1,0 +1,14 @@
+{
+  "norwegian": "Siland",
+  "latin": "Mergus serrator",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": {
+    "earliest": "05-01",
+    "latest": "05-15"
+  },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ankomst og avreise ved trekk er ikke spesifisert for Oslo og omegn. Egglegging i Sør-Norge starter i første halvdel av mai, brukt som proxy for Oslo og omegn. Klekkings- og flyvedyktighetsdatoer mangler."
+}

@@ -1,0 +1,20 @@
+{
+  "norwegian": "Rapphøne",
+  "latin": "Perdix perdix",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": {
+    "earliest": "04-01",
+    "latest": "06-30"
+  },
+  "eggs_hatch": {
+    "earliest": "04-12",
+    "latest": "07-10"
+  },
+  "chicks_fledge": {
+    "earliest": "04-20",
+    "latest": "07-29"
+  },
+  "remarks": "Ingen spesifikke datoer for Oslo og omegn, datoer tolket fra generell hekkesesong i Sør-Norge. Arten er standfugl og hekker sporadisk i Sør-Norge, ofte som følge av utsettinger."
+}

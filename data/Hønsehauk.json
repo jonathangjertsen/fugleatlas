@@ -1,0 +1,11 @@
+{
+  "norwegian": "Hønsehauk",
+  "latin": "Accipiter gentilis",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-01", "latest": "04-30" },
+  "eggs_hatch": { "earliest": "05-06", "latest": "06-07" },
+  "chicks_fledge": { "earliest": "06-15", "latest": "07-15" },
+  "remarks": "Ingen spesifikke trekkdatoer for Oslo og omegn; antatt standfugl med delvis trekk. Egglegging i april, rugetid 35-38 dager, ungene flyvedyktige etter ca. 40 dager."
+}

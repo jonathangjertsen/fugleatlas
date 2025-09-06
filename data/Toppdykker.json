@@ -1,0 +1,11 @@
+{
+  "norwegian": "Toppdykker",
+  "latin": "Podiceps cristatus",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "02-01", "latest": "03-31" },
+  "departure": { "earliest": "08-15", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-01", "latest": "08-31" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Eggklekkings- og flyvedyktighetsdatoer er ikke spesifisert. Ankomst er tolket som tidlig vår langs kysten, egglegging i mai til august i Oslo og omegn."
+}

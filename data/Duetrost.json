@@ -1,0 +1,11 @@
+{
+  "norwegian": "Duetrost",
+  "latin": "Turdus viscivorus",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-25", "latest": "04-30" },
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "04-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "04-20", "latest": "07-15" },
+  "chicks_fledge": { "earliest": "05-10", "latest": "08-15" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på beskrivelse av tidlige kull i Sør-Norge og ankomst i april, tidligst slutten av mars."
+}

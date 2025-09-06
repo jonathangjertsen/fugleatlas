@@ -1,0 +1,11 @@
+{
+  "norwegian": "Rødnebbterne",
+  "latin": "Sterna paradisaea",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-20", "latest": "05-15" },
+  "departure": { "earliest": "07-25", "latest": "09-10" },
+  "eggs_laid": { "earliest": "05-25", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-15", "latest": "07-21" },
+  "chicks_fledge": { "earliest": "07-05", "latest": "07-31" },
+  "remarks": "Datoer tolket for Sør-Norge / Oslo og omegn basert på tekstens beskrivelse."
+}

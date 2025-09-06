@@ -1,0 +1,11 @@
+{
+  "norwegian": "Svømmesnipe",
+  "latin": "Phalaropus lobatus",
+  "migratoriness": "migrant",
+  "arrival": null,
+  "departure": { "earliest": "07-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "06-01", "latest": "07-15" },
+  "eggs_hatch": { "earliest": "06-21", "latest": "08-04" },
+  "chicks_fledge": { "earliest": "07-11", "latest": "08-24" },
+  "remarks": "Ingen spesifikk ankomsttid for Oslo og omegn oppgitt, og arten hekker hovedsakelig i fjellstrøk og nordlige områder, ikke typisk i Oslo og omegn."
+}

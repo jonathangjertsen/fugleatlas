@@ -1,0 +1,11 @@
+{
+  "norwegian": "Heilo",
+  "latin": "Pluvialis apricaria",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "03-25", "latest": "05-01" },
+  "departure": { "earliest": "07-25", "latest": "10-15" },
+  "eggs_laid": { "earliest": "04-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "04-28", "latest": "07-31" },
+  "chicks_fledge": { "earliest": "05-28", "latest": "08-31" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på lavland/kyst og fjellområder; egglegging i april/mai i sørlige kyststrøk og mai/juni i fjellet; ankomst fra slutten av mars til begynnelsen av mai; avreise fra slutten av juli til oktober."
+}

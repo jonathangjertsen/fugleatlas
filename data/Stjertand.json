@@ -1,0 +1,11 @@
+{
+  "norwegian": "Stjertand",
+  "latin": "Anas acuta",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-15", "latest": "05-31" },
+  "departure": { "earliest": "08-20", "latest": "10-31" },
+  "eggs_laid": { "earliest": "05-01", "latest": "06-10" },
+  "eggs_hatch": { "earliest": "05-23", "latest": "06-30" },
+  "chicks_fledge": { "earliest": "07-02", "latest": "08-15" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på Sør-Norge data. Ankomst kan variere noe, trekk starter i slutten av august."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Perleugle",
+  "latin": "Aegolius funereus",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "03-01", "latest": "06-30" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for ankomst, avreise, klekking eller flyvedyktighet i Oslo og omegn. Egglegging varierer med smågnagerår, tidligst fra mars til slutten av juni. Trekkforhold er nomadiske hos hunner, stasjonære hos hanner."
+}

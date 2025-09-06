@@ -1,0 +1,11 @@
+{
+  "norwegian": "Myrsnipe",
+  "latin": "Calidris alpina",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-20", "latest": "05-31" },
+  "departure": { "earliest": "07-15", "latest": "08-15" },
+  "eggs_laid": { "earliest": "05-20", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-10", "latest": "07-22" },
+  "chicks_fledge": { "earliest": "07-05", "latest": "08-15" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på sørnorske kystforhold; ankomst i slutten av mai, egglegging i slutten av mai, rugetid ca. 22 dager, ungene flyvedyktige etter ca. 25 dager."
+}

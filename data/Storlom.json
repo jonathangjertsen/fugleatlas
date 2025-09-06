@@ -1,0 +1,11 @@
+{
+  "norwegian": "Storlom",
+  "latin": "Gavia arctica",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-01", "latest": "04-30" },
+  "departure": { "earliest": "08-15", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-01", "latest": "07-01" },
+  "eggs_hatch": { "earliest": "05-29", "latest": "07-29" },
+  "chicks_fledge": { "earliest": "07-29", "latest": "09-01" },
+  "remarks": "Tidsangivelser tolket for Oslo og omegn basert på Sør-Norge og generell beskrivelse. Mangler eksakte datoer for ankomst og avreise, samt eksakte datoer for klekking og flyvedyktighet, disse er estimert ut fra rugetid og oppvekstperiode."
+}

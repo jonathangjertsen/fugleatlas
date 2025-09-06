@@ -1,0 +1,11 @@
+{
+  "norwegian": "Gråsporv",
+  "latin": "Passer domesticus",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-01", "latest": "05-31" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for klekking og flyvedyktighet. Arten er svært stasjonær i Oslo og omegn, ingen trekkdatoer. Egglegging normalt i april-mai, flere kull mulig."
+}

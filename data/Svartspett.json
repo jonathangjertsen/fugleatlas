@@ -1,0 +1,11 @@
+{
+  "norwegian": "Svartspett",
+  "latin": "Dryocopus martius",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-15", "latest": "04-20" },
+  "eggs_hatch": { "earliest": "04-27", "latest": "05-02" },
+  "chicks_fledge": { "earliest": "05-18", "latest": "06-05" },
+  "remarks": "Ingen trekkperioder oppgitt for Oslo og omegn, arten er stedegen. Egglegging og klekking basert på Sør-Hedmark, antatt likt for Oslo og omegn."
+}

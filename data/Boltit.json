@@ -1,0 +1,11 @@
+{
+  "norwegian": "Boltit",
+  "latin": "Charadrius morinellus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-15", "latest": "05-20" },
+  "departure": { "earliest": "08-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-25", "latest": "07-15" },
+  "eggs_hatch": { "earliest": "06-18", "latest": "08-08" },
+  "chicks_fledge": { "earliest": "07-18", "latest": "09-08" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på beskrivelse av hekkesesong og trekk."
+}

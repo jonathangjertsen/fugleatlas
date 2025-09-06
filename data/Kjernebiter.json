@@ -1,0 +1,11 @@
+{
+  "norwegian": "Kjernebiter",
+  "latin": "Coccothraustes coccothraustes",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "05-01", "latest": "05-15" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen eksakte datoer for ankomst, avreise, klekking eller flyvedyktighet i Oslo og omegn. Egglegging skjer oftest i første halvdel av mai. Flere kull mulig, men kun ett dokumentert i Norge."
+}

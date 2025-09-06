@@ -1,0 +1,11 @@
+{
+  "norwegian": "Sangsvane",
+  "latin": "Cygnus cygnus",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-01", "latest": "04-30" },
+  "departure": { "earliest": "10-01", "latest": "01-10" },
+  "eggs_laid": null,
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for egglegging, klekking og flyvedyktighet i Oslo og omegn. Trekkdatoer er tolket fra Øvre Pasvik og Sør-Norge trekkforhold, antatt relevant for Oslo og omegn."
+}

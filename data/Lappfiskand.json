@@ -1,0 +1,11 @@
+{
+  "norwegian": "Lappfiskand",
+  "latin": "Mergus albellus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-10", "latest": "05-20" },
+  "departure": null,
+  "eggs_laid": { "earliest": "05-25", "latest": "06-10" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Avreise, klekking og flyvedyktighet er ikke spesifisert for Oslo og omegn eller Norge generelt. Hekking foregår kun i Finnmark, ikke i Oslo og omegn."
+}

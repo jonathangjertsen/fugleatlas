@@ -1,0 +1,11 @@
+{
+  "norwegian": "Skogsnipe",
+  "latin": "Tringa ochropus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-01", "latest": "04-30" },
+  "departure": { "earliest": "06-01", "latest": "06-30" },
+  "eggs_laid": { "earliest": "05-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "05-21", "latest": "07-23" },
+  "chicks_fledge": { "earliest": "06-18", "latest": "08-20" },
+  "remarks": "Avreise tidligst i juni for hunner, senere for hanner. Hekkebiologi basert på rugetid 20-23 dager og flyvedyktighet ca. 28 dager etter klekking. Datoer tolket for Oslo og omegn som representativt for Sør-Norge."
+}

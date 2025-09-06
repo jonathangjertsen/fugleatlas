@@ -1,0 +1,11 @@
+{
+  "norwegian": "Dverggås",
+  "latin": "Anser erythropus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-01", "latest": "05-15" },
+  "departure": { "earliest": "08-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-31", "latest": "06-15" },
+  "eggs_hatch": { "earliest": "06-28", "latest": "07-13" },
+  "chicks_fledge": { "earliest": "08-07", "latest": "08-23" },
+  "remarks": "Tidsangivelser er tolket for Oslo og omegn basert på beskrivelse av hekketid og trekk i Norge. Hekkebiologi er lite kjent, og ankomst til hekkeplass er i månedsskiftet mai-juni, her tolket til tidlig juni for egglegging."
+}

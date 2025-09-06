@@ -1,0 +1,11 @@
+{
+  "norwegian": "Kornkråke",
+  "latin": "Corvus frugilegus",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-25", "latest": "03-31" },
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "04-01", "latest": "05-31" },
+  "eggs_hatch": { "earliest": "04-18", "latest": "06-17" },
+  "chicks_fledge": { "earliest": "05-20", "latest": "07-20" },
+  "remarks": "Datoer tolket fra Mjøs-området som representativt for Oslo og omegn. Ankomst i slutten av mars, egglegging fra april til mai, rugetid 17-18 dager, ungene flyvedyktige ca. 32 dager etter klekking."
+}

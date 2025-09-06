@@ -1,0 +1,11 @@
+{
+  "norwegian": "Dvergsnipe",
+  "latin": "Calidris minuta",
+  "migratoriness": "migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "06-15", "latest": "07-15" },
+  "eggs_hatch": { "earliest": "07-05", "latest": "08-05" },
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke trekkankomst- eller avreisedatoer for Oslo og omegn. Hekking kun dokumentert i Finnmark og sporadisk i Troms, ikke i Oslo og omegn. Datoer for egglegging og klekking er for Finnmark, antatt likt for Oslo og omegn hvis arten hekket der."
+}

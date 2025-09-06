@@ -1,0 +1,11 @@
+{
+  "norwegian": "Rødstrupe",
+  "latin": "Erithacus rubecula",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-01", "latest": "05-15" },
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "05-01", "latest": "07-31" },
+  "eggs_hatch": { "earliest": "05-13", "latest": "08-14" },
+  "chicks_fledge": { "earliest": "05-27", "latest": "09-04" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på beskrivelse av hekkebiologi og trekkforhold i Sør-Norge."
+}

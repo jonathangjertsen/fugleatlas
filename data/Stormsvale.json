@@ -1,0 +1,11 @@
+{
+  "norwegian": "Stormsvale",
+  "latin": "Oceanodroma leucorhoa",
+  "migratoriness": "migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "08-01", "latest": "09-30" },
+  "eggs_hatch": { "earliest": "09-20", "latest": "11-15" },
+  "chicks_fledge": { "earliest": "11-20", "latest": "12-31" },
+  "remarks": "Hekkebiologi og tidspunkt er basert på observasjoner fra Røst, eneste kjente hekkested i Norge. Ankomst og avreise ved trekk er ikke spesifisert for Oslo og omegn eller Norge."
+}

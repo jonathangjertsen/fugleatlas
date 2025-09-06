@@ -1,0 +1,11 @@
+{
+  "norwegian": "Fjelljo",
+  "latin": "Stercorarius longicaudus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-20", "latest": "05-31" },
+  "departure": { "earliest": "07-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "06-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-22", "latest": "07-21" },
+  "chicks_fledge": { "earliest": "07-17", "latest": "08-15" },
+  "remarks": "Hekkeforholdene i Oslo og omegn er ikke direkte beskrevet, men fjelljo er en innlandsfugl som hekker i fjellområder og store viddene, som Hardangervidda. Oslo og omegn har ikke slike fjellområder, så hekketidspunkt er tolket ut fra sørligste kjente hekkeområde i Aust-Agder og generelle trekkdata."
+}

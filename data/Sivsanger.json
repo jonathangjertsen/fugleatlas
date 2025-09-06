@@ -1,0 +1,11 @@
+{
+  "norwegian": "Myrsanger",
+  "latin": "Acrocephalus palustris",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-30", "latest": "06-10" },
+  "departure": { "earliest": "08-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "06-01", "latest": "07-31" },
+  "eggs_hatch": { "earliest": "06-12", "latest": "08-12" },
+  "chicks_fledge": { "earliest": "06-22", "latest": "08-22" },
+  "remarks": "Hekkebiologi og trekkforhold tolket for Oslo og omegn basert på beskrivelse av hekkesesong i juni-juli og ankomst i månedsskiftet mai/juni."
+}

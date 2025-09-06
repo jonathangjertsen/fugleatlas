@@ -1,0 +1,11 @@
+{
+  "norwegian": "Dvergfalk",
+  "latin": "Falco columbarius",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-01", "latest": "05-31" },
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "05-20", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-20", "latest": "07-30" },
+  "chicks_fledge": { "earliest": "07-20", "latest": "08-30" },
+  "remarks": "Tidsangivelser er tolket for Oslo og omegn basert på beskrivelse av hekkesesong og trekk."
+}

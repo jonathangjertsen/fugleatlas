@@ -1,0 +1,17 @@
+{
+  "norwegian": "Blåmeis",
+  "latin": "Parus caeruleus",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": {
+    "earliest": "09-01",
+    "latest": "10-31"
+  },
+  "eggs_laid": {
+    "earliest": "04-25",
+    "latest": "05-10"
+  },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Ingen spesifikke datoer for ankomst, klekking og flyvedyktighet i Oslo og omegn. Avreise er tolket som september/oktober. Egglegging starter i slutten av april til begynnelsen av mai. To kull forekommer, men sjeldent."
+}

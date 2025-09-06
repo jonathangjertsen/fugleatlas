@@ -1,0 +1,11 @@
+{
+  "norwegian": "Trane",
+  "latin": "Grus grus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "03-01", "latest": "04-30" },
+  "departure": { "earliest": "08-15", "latest": "10-31" },
+  "eggs_laid": { "earliest": "05-01", "latest": "05-31" },
+  "eggs_hatch": { "earliest": "06-01", "latest": "06-30" },
+  "chicks_fledge": null,
+  "remarks": "Ingen eksakt dato for når ungene blir flyvedyktige i Oslo og omegn, men klekking skjer ca. en måned etter egglegging."
+}

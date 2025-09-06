@@ -1,0 +1,11 @@
+{
+  "norwegian": "Sanglerke",
+  "latin": "Alauda arvensis",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-01", "latest": "04-30" },
+  "departure": { "earliest": "09-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "05-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "05-12", "latest": "07-12" },
+  "chicks_fledge": { "earliest": "05-30", "latest": "07-31" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på beskrivelse av tidlig ankomst i februar-mars, egglegging i mai-juni, og to kull per år."
+}

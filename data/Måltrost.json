@@ -1,0 +1,11 @@
+{
+  "norwegian": "Måltrost",
+  "latin": "Turdus philomelos",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "03-25", "latest": "04-10" },
+  "departure": { "earliest": "09-01", "latest": "11-05" },
+  "eggs_laid": { "earliest": "05-01", "latest": "07-31" },
+  "eggs_hatch": { "earliest": "05-13", "latest": "08-12" },
+  "chicks_fledge": { "earliest": "05-27", "latest": "08-26" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på generell norsk hekkesesong og trekkbeskrivelse."
+}

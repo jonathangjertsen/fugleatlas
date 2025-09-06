@@ -1,0 +1,11 @@
+{
+  "norwegian": "Nøttekråke",
+  "latin": "Nucifraga caryocatactes",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "03-01", "latest": "04-30" },
+  "eggs_hatch": { "earliest": "03-19", "latest": "05-19" },
+  "chicks_fledge": { "earliest": "04-12", "latest": "09-30" },
+  "remarks": "Art er standfugl i Oslo og omegn, ankomst og avreise ved trekk ikke relevant. Hekkebiologi basert på mars-april bygging og klekking etter 18-19 dager, ungene forlater reiret etter 24-26 dager og er avhengige av foreldrene i 3-4 måneder."
+}

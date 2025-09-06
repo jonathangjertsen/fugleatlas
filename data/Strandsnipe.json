@@ -1,0 +1,11 @@
+{
+  "norwegian": "Strandsnipe",
+  "latin": "Actitis hypoleucos",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-01", "latest": "05-15" },
+  "departure": null,
+  "eggs_laid": null,
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Avreise, egglegging, klekking og flyvedyktighet er ikke spesifisert for Oslo og omegn, kun ankomst i første halvdel av mai er oppgitt."
+}

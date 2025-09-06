@@ -1,0 +1,11 @@
+{
+  "norwegian": "Tårnfalk",
+  "latin": "Falco tinnunculus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "03-01", "latest": "04-30" },
+  "departure": { "earliest": "10-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "05-25", "latest": "06-10" },
+  "eggs_hatch": { "earliest": "06-25", "latest": "07-10" },
+  "chicks_fledge": { "earliest": "07-25", "latest": "08-10" },
+  "remarks": "Tidsangivelsene er tolket for Oslo og omegn basert på beskrivelse av egglegging rundt månedsskiftet mai-juni og rugetid på 4 uker, samt 30 dager til ungene er flyvedyktige."
+}

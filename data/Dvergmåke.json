@@ -1,0 +1,11 @@
+{
+  "norwegian": "Dvergmåke",
+  "latin": "Larus minutus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-20", "latest": "05-31" },
+  "departure": { "earliest": "07-01", "latest": "07-31" },
+  "eggs_laid": { "earliest": "05-15", "latest": "05-31" },
+  "eggs_hatch": { "earliest": "06-07", "latest": "06-25" },
+  "chicks_fledge": { "earliest": "06-28", "latest": "07-20" },
+  "remarks": "Datoer tolket fra generell hekkebiologi i Norge, da det ikke er spesifisert for Oslo og omegn."
+}

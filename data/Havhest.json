@@ -1,0 +1,11 @@
+{
+  "norwegian": "Havhest",
+  "latin": "Fulmarus glacialis",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "01-01", "latest": "03-31" },
+  "departure": null,
+  "eggs_laid": { "earliest": "05-01", "latest": "05-10" },
+  "eggs_hatch": { "earliest": "06-20", "latest": "06-22" },
+  "chicks_fledge": { "earliest": "08-05", "latest": "08-07" },
+  "remarks": "Avreise fra Norge ikke spesifisert i teksten. Datoer tolket for Oslo og omegn som representativt for Sør-Norge."
+}

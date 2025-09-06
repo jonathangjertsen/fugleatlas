@@ -1,0 +1,11 @@
+{
+  "norwegian": "Lirype",
+  "latin": "Lagopus lagopus",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "05-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "05-22", "latest": "07-21" },
+  "chicks_fledge": { "earliest": "05-29", "latest": "07-31" },
+  "remarks": "Ingen trekk i Oslo og omegn, da lirypa er stedegen. Hekkedatoer tolket fra hele landet, antatt likt i Oslo og omegn."
+}

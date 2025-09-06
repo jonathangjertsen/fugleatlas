@@ -1,0 +1,11 @@
+{
+  "norwegian": "Brushane",
+  "latin": "Philomachus pugnax",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-01", "latest": "05-31" },
+  "departure": { "earliest": "06-25", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-25", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-15", "latest": "07-21" },
+  "chicks_fledge": { "earliest": "07-15", "latest": "08-21" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på Sør-Norge fjellområder og hekkebiologi beskrevet i teksten."
+}

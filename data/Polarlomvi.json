@@ -1,0 +1,11 @@
+{
+  "norwegian": "Polarlomvi",
+  "latin": "Uria lomvia",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "04-01", "latest": "04-30" },
+  "departure": null,
+  "eggs_laid": { "earliest": "05-01", "latest": "05-31" },
+  "eggs_hatch": { "earliest": "05-31", "latest": "06-05" },
+  "chicks_fledge": { "earliest": "06-18", "latest": "06-30" },
+  "remarks": "Ankomst og hekkebiologi er basert på Finnmark, antatt likt for Oslo og omegn. Avreise ikke oppgitt."
+}

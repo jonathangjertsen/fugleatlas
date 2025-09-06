@@ -1,0 +1,11 @@
+{
+  "norwegian": "Fiskeørn",
+  "latin": "Pandion haliaetus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-15", "latest": "04-30" },
+  "departure": { "earliest": "08-01", "latest": "10-31" },
+  "eggs_laid": { "earliest": "04-25", "latest": "05-15" },
+  "eggs_hatch": { "earliest": "05-30", "latest": "06-20" },
+  "chicks_fledge": { "earliest": "07-25", "latest": "08-30" },
+  "remarks": "Tidsangivelsene er tolket for Sør-Norge/Oslo og omegn basert på beskrivelse i teksten."
+}

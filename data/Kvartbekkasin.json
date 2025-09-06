@@ -1,0 +1,11 @@
+{
+  "norwegian": "Kvartbekkasin",
+  "latin": null,
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "05-20", "latest": "05-31" },
+  "departure": { "earliest": "08-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "06-27", "latest": "06-27" },
+  "eggs_hatch": { "earliest": "07-21", "latest": "07-21" },
+  "chicks_fledge": null,
+  "remarks": "Latinsk navn ikke oppgitt. Hekkebiologi er mangelfullt kjent, kun ett reir funnet i Sør-Norge (Hedmark). Datoer tolket fra Finnmark, da Oslo og omegn ikke har sikre hekkedata."
+}

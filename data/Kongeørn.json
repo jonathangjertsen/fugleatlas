@@ -1,0 +1,11 @@
+{
+  "norwegian": "Kongeørn",
+  "latin": "Aquila chrysaetos",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "03-04", "latest": "04-27" },
+  "eggs_hatch": { "earliest": "04-16", "latest": "06-08" },
+  "chicks_fledge": { "earliest": "06-25", "latest": "07-31" },
+  "remarks": "Ankomst og avreise ved trekk er ikke spesifisert for Oslo og omegn. Eggleggingstidspunkt er tolket fra Møre og Romsdal, antatt likt for Oslo og omegn. Rugetid ca. 43 dager, reirungeperiode 10-11 uker."
+}

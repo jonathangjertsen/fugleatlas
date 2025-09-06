@@ -1,0 +1,11 @@
+{
+  "norwegian": "Avosett",
+  "latin": "Recurvirostra avosetta",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "03-25", "latest": "03-31" },
+  "departure": { "earliest": "07-15", "latest": "08-10" },
+  "eggs_laid": { "earliest": "05-01", "latest": "05-15" },
+  "eggs_hatch": { "earliest": "06-01", "latest": "06-15" },
+  "chicks_fledge": { "earliest": "07-01", "latest": "07-31" },
+  "remarks": "Data er hentet fra Jæren, som er eneste hekkested i Norge. Ingen data for Oslo og omegn, men antatt at hekketiden i Oslo og omegn ville være lik Jæren hvis arten hekket der."
+}

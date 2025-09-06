@@ -1,0 +1,11 @@
+{
+  "norwegian": "Løvsanger",
+  "latin": "Phylloscopus trochilus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-20", "latest": "05-15" },
+  "departure": { "earliest": "08-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-10", "latest": "07-15" },
+  "eggs_hatch": { "earliest": "05-23", "latest": "07-29" },
+  "chicks_fledge": { "earliest": "06-07", "latest": "08-12" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på Sør-Norge og generell hekkebiologi. To kull mulig, derfor bredt intervall."
+}

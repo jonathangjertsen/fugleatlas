@@ -1,0 +1,11 @@
+{
+  "norwegian": "Fuglekonge",
+  "latin": "Regulus regulus",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-01", "latest": "07-31" },
+  "eggs_hatch": { "earliest": "04-17", "latest": "08-17" },
+  "chicks_fledge": { "earliest": "05-04", "latest": "09-07" },
+  "remarks": "Ingen spesifikke trekkdatoer for Oslo og omegn oppgitt, egglegging og hekkedata tolket for Sør-Norge generelt."
+}

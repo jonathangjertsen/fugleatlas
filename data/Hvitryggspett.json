@@ -1,0 +1,11 @@
+{
+  "norwegian": "Hvitryggspett",
+  "latin": "Dendrocopos leucotos",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-25", "latest": "05-10" },
+  "eggs_hatch": { "earliest": "05-06", "latest": "05-21" },
+  "chicks_fledge": { "earliest": "05-30", "latest": "06-18" },
+  "remarks": "Ingen trekkdatoer for Oslo og omegn; arten er stort sett stasjonær. Egglegging antatt fra slutten av april basert på 'sist i april' og klekketid på 11 dager. Flygeferdighet 24-28 dager etter klekking."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Kråke",
+  "latin": "Corvus corone",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-01", "latest": "05-15" },
+  "eggs_hatch": { "earliest": "04-21", "latest": "06-05" },
+  "chicks_fledge": { "earliest": "05-20", "latest": "07-10" },
+  "remarks": "Ingen spesifikke datoer for Oslo og omegn, datoer tolket fra lavlandet generelt i Norge. Ankomst og avreise ved trekk er uspesifisert."
+}

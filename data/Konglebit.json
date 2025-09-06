@@ -1,0 +1,11 @@
+{
+  "norwegian": "Konglebit",
+  "latin": "Pinicola enucleator",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-25", "latest": "03-31" },
+  "departure": { "earliest": "09-15", "latest": "10-15" },
+  "eggs_laid": { "earliest": "05-25", "latest": "06-30" },
+  "eggs_hatch": null,
+  "chicks_fledge": null,
+  "remarks": "Eggklekkings- og flyvedyktighetsdatoer er ikke spesifisert i teksten. Datoer for ankomst og avreise er tolket fra Sør-Varanger, som er nordlig, men antas å være representativt for Oslo og omegn som partial migrant."
+}

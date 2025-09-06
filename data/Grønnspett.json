@@ -1,0 +1,11 @@
+{
+  "norwegian": "Grønnspett",
+  "latin": "Picus viridis",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "05-10", "latest": "05-20" },
+  "eggs_hatch": { "earliest": "05-25", "latest": "06-05" },
+  "chicks_fledge": { "earliest": "06-10", "latest": "06-30" },
+  "remarks": "Standfugl i Oslo og omegn, ingen trekk. Egglegging i midten av mai. Tidspunkt for klekking og utflyging tolket ut fra egglegging."
+}

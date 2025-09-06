@@ -1,0 +1,23 @@
+{
+  "norwegian": "Storjo",
+  "latin": "Stercorarius skua",
+  "migratoriness": "partial_migrant",
+  "arrival": null,
+  "departure": {
+    "earliest": "08-01",
+    "latest": "09-30"
+  },
+  "eggs_laid": {
+    "earliest": "05-20",
+    "latest": "06-10"
+  },
+  "eggs_hatch": {
+    "earliest": "06-20",
+    "latest": "07-10"
+  },
+  "chicks_fledge": {
+    "earliest": "07-30",
+    "latest": "08-25"
+  },
+  "remarks": "Ingen spesifikke ankomsttider for Oslo og omegn, antatt likt med Nord-Norge. Ankomsttidspunkt for trekk mangler i teksten."
+}

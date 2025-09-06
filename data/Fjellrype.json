@@ -1,0 +1,11 @@
+{
+  "norwegian": "Fjellrype",
+  "latin": "Lagopus mutus",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "06-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "06-22", "latest": "07-23" },
+  "chicks_fledge": { "earliest": "08-10", "latest": "09-15" },
+  "remarks": "Ingen trekk i Oslo og omegn, hekkedata tolket fra Dovrefjell og Sør-Norge fjellområder."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Rødstjert",
+  "latin": "Phoenicurus phoenicurus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-20", "latest": "05-31" },
+  "departure": { "earliest": "08-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "05-15", "latest": "07-15" },
+  "chicks_fledge": { "earliest": "06-01", "latest": "08-15" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på Sør-Norge; to kull forekommer, med egglegging i mai og juni."
+}

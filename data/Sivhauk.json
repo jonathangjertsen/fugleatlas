@@ -1,0 +1,11 @@
+{
+  "norwegian": "Sivhauk",
+  "latin": "Circus aeruginosus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "04-15", "latest": "05-31" },
+  "departure": { "earliest": "08-15", "latest": "09-15" },
+  "eggs_laid": null,
+  "eggs_hatch": null,
+  "chicks_fledge": { "earliest": "08-01", "latest": "08-15" },
+  "remarks": "Egglegging og klekking er ikke spesifisert for Oslo og omegn, kun hekkeforhold og ungfuglenes flyvedyktighet i august er nevnt."
+}

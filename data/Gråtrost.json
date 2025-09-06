@@ -1,0 +1,11 @@
+{
+  "norwegian": "Gråtrost",
+  "latin": "Turdus pilaris",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-25", "latest": "05-31" },
+  "departure": { "earliest": "09-25", "latest": "11-30" },
+  "eggs_laid": { "earliest": "05-01", "latest": "06-10" },
+  "eggs_hatch": { "earliest": "05-14", "latest": "06-23" },
+  "chicks_fledge": { "earliest": "05-28", "latest": "07-07" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på lavlandet sørpå; egglegging tidlig mai, ruging ca. 13 dager, ungene flyvedyktige ca. 2 uker etter klekking."
+}

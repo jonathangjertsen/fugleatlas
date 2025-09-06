@@ -1,0 +1,11 @@
+{
+  "norwegian": "Grønnfink",
+  "latin": "Carduelis chloris",
+  "migratoriness": "partial_migrant",
+  "arrival": { "earliest": "03-01", "latest": "04-30" },
+  "departure": { "earliest": "09-01", "latest": "11-30" },
+  "eggs_laid": { "earliest": "04-01", "latest": "06-10" },
+  "eggs_hatch": { "earliest": "04-15", "latest": "06-25" },
+  "chicks_fledge": { "earliest": "05-01", "latest": "07-10" },
+  "remarks": "Datoer tolket for Oslo og omegn basert på Sør-Norge data. Mangler eksakte datoer for klekking og flyvedyktighet, estimert ut fra egglegging."
+}

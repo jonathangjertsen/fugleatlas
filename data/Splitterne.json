@@ -1,0 +1,11 @@
+{
+  "norwegian": "Splitterne",
+  "latin": "Sterna sandvicensis",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "03-17", "latest": "05-01" },
+  "departure": { "earliest": "08-01", "latest": "09-30" },
+  "eggs_laid": { "earliest": "05-01", "latest": "06-30" },
+  "eggs_hatch": null,
+  "chicks_fledge": { "earliest": "07-01", "latest": "08-13" },
+  "remarks": "Eggklekkingsdatoer er ikke spesifisert, men mating av lite flygedyktige unger observert 13.8. Usikkerhet om omlagte kull."
+}

@@ -1,0 +1,11 @@
+{
+  "norwegian": "Fasan",
+  "latin": "Phasianus colchicus",
+  "migratoriness": "resident",
+  "arrival": null,
+  "departure": null,
+  "eggs_laid": { "earliest": "04-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "04-24", "latest": "07-25" },
+  "chicks_fledge": { "earliest": "05-06", "latest": "09-13" },
+  "remarks": "Ingen trekk i tradisjonell forstand, fasanen er stedegen i Oslo og omegn. Egglegging i april-juni, ruging 23-25 dager, kyllinger flyr etter 12-14 dager, holdes sammen 70-80 dager."
+}

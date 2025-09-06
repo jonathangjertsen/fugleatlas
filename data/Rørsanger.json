@@ -1,0 +1,11 @@
+{
+  "norwegian": "Rørsanger",
+  "latin": "Acrocephalus scirpaceus",
+  "migratoriness": "migrant",
+  "arrival": { "earliest": "05-01", "latest": "05-31" },
+  "departure": { "earliest": "07-15", "latest": "10-05" },
+  "eggs_laid": { "earliest": "05-01", "latest": "06-30" },
+  "eggs_hatch": { "earliest": "05-12", "latest": "07-12" },
+  "chicks_fledge": { "earliest": "05-22", "latest": "07-26" },
+  "remarks": "Tidsangivelsene er tolket for Oslo og omegn basert på generell informasjon om hekkemåned mai/juni og rugetid 11-12 dager pluss 10-14 dager i reir."
+}
